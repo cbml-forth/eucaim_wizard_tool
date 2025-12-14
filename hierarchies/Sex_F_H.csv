@@ -1,0 +1,15 @@
+Gender,Level_2,Level_3,Level_4
+Male,Male,Male,Person
+Female,Female,Female,Person
+Non-binary,Non-binary,Other / Non-binary,Person
+Transgender male,Transgender,Other / Non-binary,Person
+Transgender female,Transgender,Other / Non-binary,Person
+Genderqueer,Non-binary,Other / Non-binary,Person
+Agender,Non-binary,Other / Non-binary,Person
+Bigender,Non-binary,Other / Non-binary,Person
+Two-spirit,Non-binary,Other / Non-binary,Person
+Prefer not to say,Prefer not to disclose,Other / Prefer not to say,Person
+Other,Other specified,Other / Prefer not to say,Person
+Unknown,Unknown,Unknown / Missing,Any
+Not recorded,Unknown,Unknown / Missing,Any
+Missing,Unknown,Unknown / Missing,Any

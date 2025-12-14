@@ -1,0 +1,46 @@
+Milk,Food allergies,*
+Egg,Food allergies,*
+Peanut,Food allergies,*
+Tree nuts,Food allergies,*
+Wheat,Food allergies,*
+Soy,Food allergies,*
+Fish,Food allergies,*
+Crustacean shellfish,Food allergies,*
+Mollusk shellfish,Food allergies,*
+Sesame,Food allergies,*
+Gluten,Food allergies,*
+Corn,Food allergies,*
+Mustard,Food allergies,*
+Celery,Food allergies,*
+Kiwi,Food allergies,*
+Avocado,Food allergies,*
+Banana,Food allergies,*
+Latex-food syndrome,Food allergies,*
+Penicillin,Medication allergies,*
+Amoxicillin,Medication allergies,*
+Cephalosporins,Medication allergies,*
+Sulfa drugs,Medication allergies,*
+NSAIDs,Medication allergies,*
+Aspirin,Medication allergies,*
+Codeine / Opioids,Medication allergies,*
+Local anesthetics,Medication allergies,*
+Iodinated contrast dye,Medication allergies,*
+Bee venom,Insect venom allergies,*
+Wasp / Hornet venom,Insect venom allergies,*
+Fire ant,Insect venom allergies,*
+Alpha-gal (red meat),Insect venom allergies,*
+Tree pollen,Airborne / Environmental allergies,*
+Grass pollen,Airborne / Environmental allergies,*
+Weed pollen (ragweed),Airborne / Environmental allergies,*
+Dust mites,Airborne / Environmental allergies,*
+Cat dander,Airborne / Environmental allergies,*
+Dog dander,Airborne / Environmental allergies,*
+Mold spores,Airborne / Environmental allergies,*
+Latex,Airborne / Environmental allergies,*
+Nickel,Contact allergies,*
+Fragrance / Perfume,Contact allergies,*
+Formaldehyde,Contact allergies,*
+Poison ivy / Poison oak,Contact allergies,*
+Hair dye (PPD),Contact allergies,*
+Sulfites,Other allergies,*
+No,No allergy,*

@@ -1,0 +1,114 @@
+Model,Vendor,Modality,Imaging Device
+Revolution Apex,GE,CT,*
+Discovery CT750 HD,GE,CT,*
+Optima CT660,GE,CT,*
+LightSpeed VCT,GE,CT,*
+Revolution Evo,GE,CT,*
+SOMATOM Force,Siemens,CT,*
+SOMATOM Definition Flash,Siemens,CT,*
+SOMATOM Drive,Siemens,CT,*
+SOMATOM Edge Plus,Siemens,CT,*
+SOMATOM Confidence,Siemens,CT,*
+Brilliance iCT,Philips,CT,*
+Incisive CT,Philips,CT,*
+Spectral CT 7500,Philips,CT,*
+IQon Spectral CT,Philips,CT,*
+Aquilion ONE,Canon,CT,*
+Aquilion Prime SP,Canon,CT,*
+Aquilion Precision,Canon,CT,*
+Aquilion Serve,Canon,CT,*
+Scenaria View,Hitachi,CT,*
+Signa Explorer,GE,MRI,*
+Signa Voyager,GE,MRI,*
+Signa Architect,GE,MRI,*
+Signa Premier,GE,MRI,*
+Signa HDxt,GE,MRI,*
+Magnetom Aera,Siemens,MRI,*
+Magnetom Skyra,Siemens,MRI,*
+Magnetom Prisma,Siemens,MRI,*
+Magnetom Symphony,Siemens,MRI,*
+Magnetom Avanto,Siemens,MRI,*
+Ingenia Ambition,Philips,MRI,*
+Ingenia Elition,Philips,MRI,*
+Achieva,Philips,MRI,*
+Multiva,Philips,MRI,*
+Vantage Galan,Canon,MRI,*
+Vantage Orian,Canon,MRI,*
+Vantage Titan,Canon,MRI,*
+Aperto Lucent,Hitachi,MRI,*
+Echelon Smart,Hitachi,MRI,*
+Oasis,Hitachi,MRI,*
+Logiq E10,GE,Ultrasound,*
+Voluson E8,GE,Ultrasound,*
+Vivid E95,GE,Ultrasound,*
+Logiq P9,GE,Ultrasound,*
+Venue,GE,Ultrasound,*
+EPIQ Elite,Philips,Ultrasound,*
+Affiniti 70,Philips,Ultrasound,*
+InnoSight,Philips,Ultrasound,*
+Lumify,Philips,Ultrasound,*
+Acuson Sequoia,Siemens,Ultrasound,*
+Acuson Redwood,Siemens,Ultrasound,*
+Acuson Juniper,Siemens,Ultrasound,*
+Acuson NX3,Siemens,Ultrasound,*
+Aplio i800,Canon,Ultrasound,*
+Xario 200G,Canon,Ultrasound,*
+Viamo sv7,Canon,Ultrasound,*
+Resona 7,Mindray,Ultrasound,*
+M9,Mindray,Ultrasound,*
+DC-80,Mindray,Ultrasound,*
+HERA W10,Samsung,Ultrasound,*
+V8,Samsung,Ultrasound,*
+RS85,Samsung,Ultrasound,*
+Discovery XR656,GE,Radiography,*
+Definium 8000,GE,Radiography,*
+Proteus XR/a,GE,Radiography,*
+Multix Fusion Max,Siemens,Radiography,*
+Ysio Max,Siemens,Radiography,*
+Luminos Agile Max,Siemens,Radiography,*
+DigitalDiagnost C90,Philips,Radiography,*
+MobileDiagnost wDR,Philips,Radiography,*
+DRX-Evolution Plus,Carestream,Radiography,*
+DRX-Compass,Carestream,Radiography,*
+Vita Flex CR,Carestream,Radiography,*
+FDR Go PLUS,Fuji,Radiography,*
+FDR Clinica,Fuji,Radiography,*
+FDR Smart f,Fuji,Radiography,*
+DR 600,Agfa,Radiography,*
+DR 800,Agfa,Radiography,*
+DX-D 300,Agfa,Radiography,*
+Innova IGS 520,GE,Fluoroscopy,*
+Discovery IGS 730,GE,Fluoroscopy,*
+OEC Elite,GE,Fluoroscopy,*
+Artis Q,Siemens,Fluoroscopy,*
+Luminos dRF Max,Siemens,Fluoroscopy,*
+Artis Zee,Siemens,Fluoroscopy,*
+Azurion 7,Philips,Fluoroscopy,*
+Allura Xper FD20,Philips,Fluoroscopy,*
+Veradius Unity,Philips,Fluoroscopy,*
+Ultimax-i,Canon,Fluoroscopy,*
+Alphenix,Canon,Fluoroscopy,*
+Selenia Dimensions,Hologic,Mammography,*
+3Dimensions,Hologic,Mammography,*
+Affirm,Hologic,Mammography,*
+Senographe Pristina,GE,Mammography,*
+Senographe Crystal Nova,GE,Mammography,*
+Mammomat Revelation,Siemens,Mammography,*
+Mammomat Inspiration,Siemens,Mammography,*
+Amulet Innovality,Fuji,Mammography,*
+Aspire Cristalle,Fuji,Mammography,*
+Discovery MI,GE,Nuclear Medicine,*
+NM/CT 870,GE,Nuclear Medicine,*
+StarGuide,GE,Nuclear Medicine,*
+Biograph Vision,Siemens,Nuclear Medicine,*
+Symbia Intevo,Siemens,Nuclear Medicine,*
+Biograph mCT,Siemens,Nuclear Medicine,*
+Vereos Digital,Philips,Nuclear Medicine,*
+Ingenuity TF,Philips,Nuclear Medicine,*
+CardioMD,Philips,Nuclear Medicine,*
+Lunar iDXA,GE,Bone Densitometry,*
+Prodigy,GE,Bone Densitometry,*
+DPX-NT,GE,Bone Densitometry,*
+Horizon DXA,Hologic,Bone Densitometry,*
+Discovery Wi,Hologic,Bone Densitometry,*
+Fluoroscan InSight,Hologic,Bone Densitometry,*
