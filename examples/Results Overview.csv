@@ -1,0 +1,7 @@
+Attribute,Hierarchy Levels,Solution A: Usability (k=3),Solution B: Security (k=10)
+Age,L1 (Specific Age) to L4 (ALL_AGES),L2 (5-Year Group),L3 (10-Year Group)
+Weight,L1 (Specific Weight) to L4 (ALL_WEIGHTS),L2 (5-kg Group),L3 (20-kg Group)
+Ethnicity,L1 (Country) to L3 (ALL_ETHNICITIES),L1 (Country),L2 (Region: Europe/Rest_of_World)
+Allergies,L1 (Detail) to L3 (ALL_ALLERGIES),L1 (Detail: Penicillin/none),L2 (Status: HAS_ALLERGY/NO_ALLERGY)
+Modality,L1 (Modality) to L3 (ALL_MODALITIES),L1 (Modality: CT/MRI/X-ray),L2 (Type: X-ray_Based/Other)
+Manufacturer,L1 (Model) to L3 (ALL_VENDORS),L2 (Vendor: Siemens/GE/Philips),L3 (ALL_VENDORS)

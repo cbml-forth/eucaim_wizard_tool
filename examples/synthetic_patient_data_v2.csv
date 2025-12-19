@@ -1,0 +1,1001 @@
+Patient_ID,Acquisition_Date,Acquisition_Time,Age,Weight_kg,Sex,Ethnicity_Country,Allergies,Imaging_Modality,Manufacturer_Model,Zip_Code
+P0001,20251202,162303,45,77.4,Male,Greece,none,X-ray,Siemens Somatom Definition AS,37933
+P0002,20230501,204952,54,72.1,Male,Italy,none,Ultrasound,Canon Vantage Galan 3T,78890
+P0003,20250721,125224,62,82.9,Female,Greece,Penicillin,PET,Canon Aquilion ONE,69402
+P0004,20231115,091419,57,79.1,Male,Portugal,none,PET,Philips EPIQ Elite,16314
+P0005,20240227,165308,73,119.1,Female,Sweden,none,MRI,GE Signa HDXt,63313
+P0006,20240925,201713,53,46.5,Male,Netherlands,none,X-ray,Canon Vantage Galan 3T,44333
+P0007,20251101,182435,55,70.4,Female,Spain,Penicillin,MRI,GE Signa HDXt,62962
+P0008,20240930,124955,63,84.3,Unknown,Spain,none,MRI,Siemens Magnetom Skyra,19392
+P0009,20230704,191652,48,78.9,Female,France,Penicillin,MRI,Siemens Magnetom Skyra,59259
+P0010,20250218,161552,58,70.9,Male,Netherlands,none,MRI,Siemens Magnetom Skyra,50467
+P0011,20251113,200117,49,71.5,Female,Poland,none,SPECT,Philips EPIQ Elite,80621
+P0012,20230419,141456,72,82.4,Male,Ireland,none,Ultrasound,GE Discovery MI,10317
+P0013,20230913,184342,58,65.6,Female,United Kingdom,none,Ultrasound,Philips EPIQ Elite,73774
+P0014,20250328,072717,69,83.0,Male,Poland,none,X-ray,Canon Aquilion ONE,26983
+P0015,20250816,150435,59,76.7,Male,Ireland,none,Ultrasound,Siemens Magnetom Skyra,66756
+P0016,20240827,133142,75,71.8,Unknown,Spain,none,MRI,GE Discovery MI,24879
+P0017,20250608,191557,57,78.6,Female,China,none,Ultrasound,GE Signa HDXt,82085
+P0018,20230330,141503,66,83.1,Unknown,Spain,none,SPECT,Philips iCT 256,36632
+P0019,20240918,155631,69,74.8,Unknown,France,none,Ultrasound,GE Optima CT660,65867
+P0020,20240722,142044,51,95.3,Female,Ireland,Penicillin,PET,GE Optima CT660,77898
+P0021,20250311,203346,56,82.4,Male,United Kingdom,none,SPECT,GE Optima CT660,69464
+P0022,20230214,183547,55,74.2,Male,Greece,none,SPECT,Canon Aquilion ONE,24792
+P0023,20251010,194248,80,73.8,Male,Portugal,none,X-ray,GE Signa HDXt,43534
+P0024,20250723,172828,68,78.8,Male,Italy,none,SPECT,Philips iCT 256,88596
+P0025,20250507,101459,50,70.3,Unknown,Netherlands,Penicillin,SPECT,Philips Ingenia 3.0T,76662
+P0026,20250716,070610,71,74.1,Male,Netherlands,none,PET,Siemens Magnetom Aera,16775
+P0027,20230323,070058,37,73.9,Male,Netherlands,none,CT,GE Optima CT660,54868
+P0028,20231012,074340,50,75.8,Male,Germany,none,Ultrasound,Siemens Magnetom Skyra,74775
+P0029,20241030,113737,61,112.3,Male,Japan,Penicillin,Ultrasound,GE Discovery MI,45131
+P0030,20251203,104517,66,82.1,Male,Germany,none,X-ray,GE Signa HDXt,36762
+P0031,20250227,092942,61,88.6,Female,Poland,none,PET,Canon Aquilion ONE,58490
+P0032,20230912,151014,54,102.5,Unknown,Portugal,none,PET,Philips EPIQ Elite,99286
+P0033,20240206,153613,60,79.4,Female,Poland,Penicillin,Ultrasound,Siemens Somatom Definition AS,94314
+P0034,20250512,071553,60,72.2,Male,Portugal,none,X-ray,Canon Vantage Galan 3T,26858
+P0035,20250706,092651,65,62.3,Female,China,none,Ultrasound,Philips iCT 256,91686
+P0036,20230126,151518,59,71.4,Female,Portugal,none,PET,Philips iCT 256,58035
+P0037,20250217,164702,68,109.1,Male,Mexico,none,Ultrasound,Canon Vantage Galan 3T,87311
+P0038,20230303,134348,71,68.1,Male,Greece,none,CT,Philips EPIQ Elite,29429
+P0039,20231223,145601,64,77.9,Male,Poland,none,PET,GE Optima CT660,95851
+P0040,20230928,180614,56,53.5,Female,Ireland,none,PET,Philips EPIQ Elite,76286
+P0041,20231224,112215,55,80.2,Male,Ireland,none,X-ray,GE Signa HDXt,14692
+P0042,20230108,182930,68,97.5,Female,Sweden,none,CT,Siemens Magnetom Skyra,68635
+P0043,20231024,205704,45,69.2,Female,India,none,SPECT,Philips EPIQ Elite,80808
+P0044,20250324,154115,56,76.7,Female,Ireland,none,SPECT,GE Discovery MI,36040
+P0045,20230501,170511,44,79.7,Female,Mexico,none,X-ray,Canon Aquilion ONE,79113
+P0046,20240822,135851,70,56.4,Female,United Kingdom,Penicillin,Ultrasound,Philips Ingenia 3.0T,52963
+P0047,20240727,135839,74,108.5,Female,India,none,PET,Philips iCT 256,14831
+P0048,20230930,130138,56,93.4,Female,Sweden,none,PET,Siemens Somatom Definition AS,36697
+P0049,20240123,113657,51,49.6,Female,Portugal,Penicillin,Ultrasound,Philips EPIQ Elite,21491
+P0050,20241116,155723,62,84.4,Female,Netherlands,none,PET,Philips EPIQ Elite,22356
+P0051,20250108,145632,48,91.7,Male,Poland,none,SPECT,Canon Aquilion ONE,67272
+P0052,20230108,182332,64,61.5,Female,Ireland,none,X-ray,Philips iCT 256,55216
+P0053,20230423,205059,80,81.7,Unknown,Japan,none,PET,Canon Aquilion ONE,45370
+P0054,20250803,181022,71,51.8,Female,Brazil,none,X-ray,Canon Aquilion ONE,37255
+P0055,20231129,074129,63,86.9,Female,France,none,SPECT,Siemens Magnetom Aera,25667
+P0056,20250311,071201,81,47.2,Female,Greece,Penicillin,SPECT,Philips EPIQ Elite,25340
+P0057,20230222,162520,67,72.7,Male,China,none,X-ray,Philips EPIQ Elite,65623
+P0058,20240921,181705,62,117.3,Female,Portugal,none,Ultrasound,Philips Ingenia 3.0T,22829
+P0059,20241121,161019,66,76.6,Female,Sweden,none,PET,Philips EPIQ Elite,26327
+P0060,20240822,190804,63,71.3,Male,Netherlands,none,CT,Canon Vantage Galan 3T,73120
+P0061,20240614,123520,49,121.5,Male,Spain,none,X-ray,Canon Aquilion ONE,18620
+P0062,20251025,193329,54,72.9,Female,United Kingdom,none,CT,GE Discovery MI,60867
+P0063,20230731,161854,47,82.6,Male,United Kingdom,none,MRI,Siemens Magnetom Aera,39999
+P0064,20240512,174125,70,47.9,Male,United Kingdom,none,X-ray,GE Signa HDXt,45958
+P0065,20241231,121549,55,75.6,Female,Poland,none,PET,GE Signa HDXt,86022
+P0066,20241117,123047,65,72.2,Male,Greece,none,CT,Philips iCT 256,67307
+P0067,20231004,205516,69,83.6,Unknown,Portugal,none,PET,Philips EPIQ Elite,27388
+P0068,20241208,150138,72,81.6,Male,Mexico,none,SPECT,GE Optima CT660,94505
+P0069,20250223,144133,60,100.4,Female,Portugal,none,CT,Philips iCT 256,71318
+P0070,20251214,205248,54,79.4,Female,Ireland,Penicillin,PET,GE Discovery MI,74699
+P0071,20250912,135147,57,76.7,Female,Italy,Penicillin,CT,Siemens Magnetom Aera,42966
+P0072,20230928,091732,60,46.2,Male,United Kingdom,Penicillin,Ultrasound,Canon Vantage Galan 3T,91471
+P0073,20230616,150824,46,115.6,Female,Sweden,none,MRI,GE Optima CT660,86975
+P0074,20250821,191353,58,71.2,Male,Poland,none,X-ray,Philips Ingenia 3.0T,41858
+P0075,20230621,131904,59,74.2,Female,United Kingdom,none,MRI,Siemens Magnetom Skyra,73751
+P0076,20240720,175057,68,118.8,Female,Greece,none,MRI,GE Signa HDXt,93687
+P0077,20250302,140836,82,73.2,Male,Brazil,none,SPECT,Siemens Somatom Definition AS,88468
+P0078,20241121,171757,55,56.4,Female,United Kingdom,none,SPECT,Canon Aquilion ONE,36877
+P0079,20241221,131926,60,99.7,Female,United Kingdom,none,CT,Canon Vantage Galan 3T,42088
+P0080,20230123,174128,55,118.3,Male,Ireland,none,MRI,Canon Vantage Galan 3T,56994
+P0081,20231225,110226,48,69.5,Female,Sweden,none,PET,Canon Vantage Galan 3T,83337
+P0082,20251016,095405,61,83.7,Female,United Kingdom,Penicillin,CT,GE Discovery MI,30579
+P0083,20240921,182917,54,73.9,Female,Netherlands,none,Ultrasound,Siemens Magnetom Aera,67020
+P0084,20230825,155128,76,78.3,Male,Netherlands,none,PET,GE Discovery MI,31947
+P0085,20250918,124222,63,108.8,Female,Spain,none,X-ray,Philips iCT 256,96085
+P0086,20241220,141337,60,64.7,Male,Portugal,none,SPECT,Canon Vantage Galan 3T,82895
+P0087,20251108,082812,54,71.3,Male,China,Penicillin,CT,Canon Aquilion ONE,71965
+P0088,20230706,114914,48,52.3,Male,France,none,MRI,Siemens Somatom Definition AS,14953
+P0089,20250907,153936,57,76.7,Male,Poland,none,Ultrasound,Canon Aquilion ONE,17772
+P0090,20251018,175013,70,83.7,Female,India,none,Ultrasound,Siemens Magnetom Skyra,98048
+P0091,20250724,170629,54,80.2,Male,Netherlands,none,Ultrasound,GE Signa HDXt,66873
+P0092,20251206,083745,68,71.4,Female,Sweden,none,SPECT,GE Signa HDXt,79808
+P0093,20240113,180437,60,54.9,Female,France,none,PET,Philips EPIQ Elite,18226
+P0094,20250110,072823,62,78.0,Female,Sweden,none,Ultrasound,Canon Vantage Galan 3T,63498
+P0095,20250615,202849,41,85.3,Female,France,none,PET,GE Discovery MI,26473
+P0096,20250211,112939,61,72.7,Female,France,none,MRI,Siemens Magnetom Skyra,58352
+P0097,20230513,153618,62,109.9,Female,Portugal,none,PET,Philips EPIQ Elite,50017
+P0098,20240125,082809,76,81.5,Male,Netherlands,none,Ultrasound,Siemens Magnetom Aera,64526
+P0099,20230508,205250,51,71.0,Female,Japan,none,SPECT,GE Discovery MI,20561
+P0100,20250623,145044,58,67.6,Female,Brazil,none,SPECT,GE Signa HDXt,96413
+P0101,20240409,070159,71,67.1,Male,Italy,none,MRI,GE Discovery MI,17377
+P0102,20250924,175145,58,71.7,Male,Sweden,none,X-ray,Philips iCT 256,38442
+P0103,20241022,125515,54,64.1,Female,Netherlands,none,X-ray,Siemens Somatom Definition AS,74262
+P0104,20251020,155218,50,81.7,Male,Portugal,none,PET,Philips Ingenia 3.0T,66646
+P0105,20230703,203123,49,76.2,Male,Ireland,none,SPECT,GE Optima CT660,17851
+P0106,20230311,100503,82,82.2,Male,Portugal,none,X-ray,GE Discovery MI,44698
+P0107,20230927,173946,59,110.7,Male,Poland,none,PET,GE Signa HDXt,47202
+P0108,20240620,140633,56,98.4,Female,Spain,none,MRI,Siemens Somatom Definition AS,90008
+P0109,20240207,202229,50,109.4,Female,Portugal,none,X-ray,Philips EPIQ Elite,92651
+P0110,20241029,125507,67,73.3,Female,Italy,none,SPECT,Philips EPIQ Elite,67439
+P0111,20221231,110243,63,118.4,Female,Poland,none,MRI,Siemens Magnetom Skyra,26226
+P0112,20230210,110800,85,53.7,Male,Poland,none,CT,Siemens Magnetom Aera,32897
+P0113,20230420,162100,60,81.4,Unknown,India,none,CT,Siemens Somatom Definition AS,37326
+P0114,20250904,173557,60,73.5,Male,Japan,none,MRI,GE Optima CT660,20711
+P0115,20250321,101039,67,101.7,Male,Japan,none,PET,Canon Vantage Galan 3T,67309
+P0116,20241110,180124,59,72.9,Male,Spain,none,MRI,Siemens Magnetom Skyra,79196
+P0117,20230227,112352,67,79.6,Male,Portugal,none,CT,Canon Vantage Galan 3T,80257
+P0118,20221223,072153,58,112.0,Male,Spain,none,SPECT,Philips iCT 256,74555
+P0119,20230614,162857,73,80.5,Male,Germany,Penicillin,MRI,Philips EPIQ Elite,71665
+P0120,20231021,185515,61,78.4,Male,Ireland,none,CT,Siemens Somatom Definition AS,82518
+P0121,20251204,084751,59,87.4,Male,Netherlands,none,X-ray,Canon Aquilion ONE,41686
+P0122,20241107,111029,65,76.0,Male,Greece,none,CT,Philips Ingenia 3.0T,82868
+P0123,20240717,182939,61,70.3,Male,Greece,Penicillin,SPECT,GE Discovery MI,18366
+P0124,20250828,161717,67,81.6,Male,Mexico,none,PET,Philips iCT 256,65614
+P0125,20250531,103553,58,75.5,Male,Poland,none,CT,GE Optima CT660,37563
+P0126,20240620,122035,65,105.7,Female,Netherlands,none,X-ray,GE Discovery MI,13227
+P0127,20221223,200653,64,75.8,Male,Ireland,none,Ultrasound,GE Optima CT660,73951
+P0128,20250829,151709,40,92.5,Female,Spain,none,SPECT,Siemens Magnetom Aera,96991
+P0129,20230505,132114,65,101.3,Male,Netherlands,none,X-ray,GE Signa HDXt,38544
+P0130,20250309,143140,53,74.7,Male,Poland,none,PET,Philips Ingenia 3.0T,82186
+P0131,20241230,160043,48,77.3,Male,France,none,CT,Siemens Magnetom Skyra,25960
+P0132,20231122,131814,54,73.0,Unknown,United Kingdom,none,X-ray,Canon Vantage Galan 3T,72120
+P0133,20250324,105804,52,77.6,Female,Greece,none,Ultrasound,GE Discovery MI,53071
+P0134,20221229,174854,55,82.6,Male,United Kingdom,none,X-ray,Philips EPIQ Elite,57913
+P0135,20240423,101040,63,73.8,Unknown,Germany,none,MRI,Philips EPIQ Elite,58358
+P0136,20251122,092803,59,82.4,Male,France,none,X-ray,Siemens Somatom Definition AS,82651
+P0137,20250222,204013,52,82.1,Female,Netherlands,none,PET,Canon Aquilion ONE,44434
+P0138,20240202,193745,56,73.5,Male,Greece,none,MRI,Philips iCT 256,33655
+P0139,20250318,193820,58,45.1,Female,Germany,none,SPECT,Philips EPIQ Elite,30202
+P0140,20230904,075321,60,120.0,Female,France,none,MRI,GE Discovery MI,73741
+P0141,20240927,142144,58,77.9,Male,Spain,none,X-ray,Siemens Magnetom Aera,68192
+P0142,20241003,142258,59,66.0,Male,France,none,X-ray,GE Optima CT660,91531
+P0143,20230826,101731,57,97.4,Male,United Kingdom,none,Ultrasound,Philips Ingenia 3.0T,40544
+P0144,20250113,184033,71,84.6,Male,Spain,none,X-ray,GE Discovery MI,74136
+P0145,20240806,121745,50,60.2,Male,Japan,Penicillin,MRI,Siemens Magnetom Aera,78565
+P0146,20250919,141806,57,86.8,Female,Netherlands,Penicillin,MRI,Philips iCT 256,83616
+P0147,20230603,170326,57,52.0,Male,Germany,none,SPECT,Siemens Magnetom Skyra,68742
+P0148,20230303,181414,57,77.3,Female,Germany,none,X-ray,Canon Aquilion ONE,37786
+P0149,20230822,135257,53,73.8,Male,Portugal,none,Ultrasound,Siemens Magnetom Aera,22230
+P0150,20251009,164307,68,51.9,Unknown,Italy,none,CT,GE Optima CT660,71965
+P0151,20231020,201328,50,90.7,Female,Brazil,none,X-ray,Siemens Magnetom Aera,13803
+P0152,20240313,090712,42,84.7,Female,Netherlands,none,Ultrasound,GE Signa HDXt,64226
+P0153,20240405,075551,76,74.8,Female,Poland,none,CT,Siemens Somatom Definition AS,49579
+P0154,20230815,204936,55,82.3,Female,Spain,none,SPECT,Siemens Magnetom Skyra,71765
+P0155,20240621,203607,63,118.0,Unknown,Netherlands,none,CT,GE Optima CT660,38449
+P0156,20240609,090333,68,82.3,Female,Italy,none,SPECT,Philips EPIQ Elite,33450
+P0157,20230910,110159,85,76.0,Male,Japan,none,Ultrasound,Siemens Magnetom Aera,21294
+P0158,20250707,101342,47,48.9,Male,Greece,none,CT,Philips EPIQ Elite,80815
+P0159,20240509,140624,52,115.8,Male,Germany,Penicillin,SPECT,Philips iCT 256,79608
+P0160,20240908,115154,49,71.3,Male,Sweden,none,MRI,Philips EPIQ Elite,83554
+P0161,20250322,195921,54,82.4,Male,Spain,none,MRI,GE Discovery MI,22857
+P0162,20230504,100428,57,73.1,Unknown,Spain,none,MRI,Canon Vantage Galan 3T,83694
+P0163,20231215,090926,71,82.2,Male,Greece,none,SPECT,Philips iCT 256,64366
+P0164,20231230,152201,75,121.8,Male,Netherlands,Penicillin,SPECT,Siemens Magnetom Skyra,22560
+P0165,20240912,102212,49,85.4,Female,Sweden,none,SPECT,GE Discovery MI,32350
+P0166,20240229,172808,83,79.9,Female,Poland,none,Ultrasound,Siemens Magnetom Skyra,47691
+P0167,20230331,160030,79,75.0,Male,Brazil,none,SPECT,Siemens Somatom Definition AS,89258
+P0168,20240728,131549,74,79.7,Female,France,none,PET,Philips Ingenia 3.0T,65527
+P0169,20230522,205441,54,71.3,Female,Netherlands,none,PET,GE Optima CT660,11235
+P0170,20250427,151257,73,83.3,Female,Germany,none,CT,GE Discovery MI,11175
+P0171,20251208,175941,73,109.0,Female,Poland,none,SPECT,Siemens Magnetom Skyra,65606
+P0172,20250501,193640,73,70.9,Female,France,none,CT,GE Optima CT660,65382
+P0173,20240811,150742,70,77.3,Male,United Kingdom,none,CT,Canon Aquilion ONE,54026
+P0174,20240701,080026,64,100.2,Female,Germany,none,SPECT,Canon Aquilion ONE,36400
+P0175,20250903,153142,74,80.6,Male,Portugal,none,MRI,Siemens Magnetom Skyra,22322
+P0176,20250903,184628,61,70.4,Male,Ireland,none,X-ray,Siemens Somatom Definition AS,53724
+P0177,20230505,130526,81,60.7,Male,China,none,MRI,Canon Aquilion ONE,77638
+P0178,20230501,192637,62,95.5,Female,Spain,none,PET,Siemens Somatom Definition AS,73330
+P0179,20231113,204600,51,72.9,Male,Mexico,none,MRI,Canon Aquilion ONE,63873
+P0180,20250819,110342,52,78.9,Unknown,China,none,PET,Philips EPIQ Elite,47461
+P0181,20250716,075804,49,70.6,Male,Netherlands,none,Ultrasound,Siemens Magnetom Aera,83194
+P0182,20241118,080443,51,72.2,Female,Italy,none,SPECT,Siemens Magnetom Skyra,54850
+P0183,20240731,071344,61,73.0,Male,Greece,none,SPECT,Siemens Magnetom Aera,81125
+P0184,20240304,150332,47,80.3,Male,Greece,none,SPECT,Philips EPIQ Elite,24783
+P0185,20221227,110928,65,72.0,Male,Italy,none,X-ray,Siemens Magnetom Aera,37341
+P0186,20250601,133609,50,121.4,Male,Ireland,none,MRI,GE Optima CT660,11350
+P0187,20230507,113750,42,75.9,Male,Portugal,none,CT,GE Discovery MI,97518
+P0188,20231002,164455,66,74.2,Male,Ireland,none,SPECT,Canon Vantage Galan 3T,54032
+P0189,20251122,172438,42,78.4,Male,Poland,none,X-ray,Philips iCT 256,74842
+P0190,20231007,183839,45,76.4,Male,Ireland,none,X-ray,Siemens Magnetom Aera,88115
+P0191,20250221,121629,59,79.6,Male,Ireland,none,SPECT,Canon Aquilion ONE,73693
+P0192,20250924,150302,58,52.2,Female,Netherlands,none,Ultrasound,Philips EPIQ Elite,96130
+P0193,20241115,184542,72,71.0,Male,Greece,none,CT,Philips iCT 256,39671
+P0194,20230609,183159,55,74.5,Male,Spain,none,CT,Siemens Somatom Definition AS,69431
+P0195,20250801,121048,67,72.7,Female,Portugal,none,MRI,Canon Aquilion ONE,36001
+P0196,20240914,072104,61,53.8,Female,Italy,none,SPECT,Canon Vantage Galan 3T,88254
+P0197,20230603,120508,63,83.6,Male,Mexico,none,X-ray,Siemens Somatom Definition AS,71150
+P0198,20241123,104649,64,85.9,Female,Brazil,Penicillin,X-ray,Philips EPIQ Elite,86246
+P0199,20240730,152941,70,105.5,Female,Portugal,none,PET,GE Discovery MI,40430
+P0200,20240808,084216,69,71.7,Male,Portugal,none,SPECT,GE Optima CT660,68164
+P0201,20250225,143714,76,80.5,Male,Ireland,none,CT,Canon Vantage Galan 3T,96265
+P0202,20231210,121351,54,116.6,Male,Poland,none,PET,Philips iCT 256,32679
+P0203,20240115,172613,50,73.5,Female,United Kingdom,none,PET,Canon Vantage Galan 3T,46371
+P0204,20240817,145808,56,71.1,Female,Brazil,Penicillin,PET,Siemens Magnetom Aera,76556
+P0205,20231023,112126,59,84.7,Female,Ireland,Penicillin,SPECT,GE Optima CT660,72232
+P0206,20230121,202504,65,98.2,Female,India,none,PET,Siemens Somatom Definition AS,81296
+P0207,20231031,091729,54,104.5,Male,Spain,none,Ultrasound,Siemens Magnetom Aera,63670
+P0208,20240818,110947,67,81.2,Male,Italy,none,PET,Philips EPIQ Elite,68423
+P0209,20240405,084645,61,116.5,Unknown,Germany,none,CT,Canon Vantage Galan 3T,93812
+P0210,20240825,102737,75,54.6,Male,India,none,X-ray,Canon Aquilion ONE,43847
+P0211,20231201,085859,48,51.3,Male,Ireland,none,CT,Canon Aquilion ONE,53691
+P0212,20230125,153923,72,55.3,Unknown,Greece,none,MRI,GE Discovery MI,14781
+P0213,20250213,180437,58,116.5,Female,United Kingdom,none,SPECT,Philips Ingenia 3.0T,13403
+P0214,20240731,190856,75,72.8,Female,United Kingdom,none,X-ray,GE Optima CT660,93453
+P0215,20240707,180434,62,51.8,Male,Portugal,none,MRI,Siemens Somatom Definition AS,73976
+P0216,20250713,173614,57,83.0,Male,Netherlands,none,Ultrasound,Philips Ingenia 3.0T,79248
+P0217,20250611,200959,74,75.6,Male,India,none,PET,Siemens Magnetom Skyra,78443
+P0218,20250611,130857,67,80.3,Male,Poland,none,MRI,GE Optima CT660,29704
+P0219,20250802,102910,54,84.5,Male,France,none,PET,Siemens Somatom Definition AS,11251
+P0220,20230625,101908,54,81.8,Female,Portugal,none,Ultrasound,GE Signa HDXt,62315
+P0221,20250217,104214,67,75.6,Male,Japan,none,SPECT,GE Signa HDXt,69119
+P0222,20250131,095359,65,67.1,Male,Poland,none,CT,Canon Vantage Galan 3T,95826
+P0223,20231205,082621,51,77.0,Male,Poland,none,MRI,GE Optima CT660,86936
+P0224,20250206,173912,47,78.7,Male,France,none,MRI,Siemens Somatom Definition AS,23425
+P0225,20230503,195750,55,73.4,Male,Ireland,none,PET,Siemens Somatom Definition AS,69835
+P0226,20241003,082036,49,75.4,Female,France,Penicillin,X-ray,Canon Vantage Galan 3T,69689
+P0227,20251011,162215,55,86.8,Female,Netherlands,none,MRI,Philips iCT 256,78165
+P0228,20230224,203555,40,79.5,Female,Poland,none,MRI,Siemens Magnetom Skyra,84789
+P0229,20250415,083626,80,56.5,Female,Poland,none,CT,Siemens Magnetom Aera,68472
+P0230,20251006,184658,55,77.0,Female,Mexico,Penicillin,Ultrasound,Philips EPIQ Elite,88898
+P0231,20250804,141118,42,55.4,Male,China,none,SPECT,Philips EPIQ Elite,74449
+P0232,20230526,071744,48,84.3,Female,Spain,none,Ultrasound,Canon Aquilion ONE,63897
+P0233,20250330,133954,58,64.7,Female,Ireland,none,MRI,Canon Vantage Galan 3T,24731
+P0234,20250813,171102,74,78.5,Female,India,none,PET,Philips Ingenia 3.0T,30484
+P0235,20230804,175742,84,72.7,Female,Brazil,Penicillin,MRI,GE Discovery MI,53207
+P0236,20250104,071714,56,60.3,Male,Portugal,none,Ultrasound,GE Optima CT660,30485
+P0237,20230913,180426,54,52.0,Female,Ireland,Penicillin,Ultrasound,GE Optima CT660,31758
+P0238,20251204,184549,66,49.2,Female,Spain,none,MRI,GE Signa HDXt,80682
+P0239,20240705,185205,52,80.4,Male,Spain,none,SPECT,GE Discovery MI,43850
+P0240,20240125,190952,52,60.5,Male,Greece,Penicillin,PET,Siemens Somatom Definition AS,30100
+P0241,20240518,125719,73,120.3,Male,Italy,Penicillin,SPECT,Philips iCT 256,85522
+P0242,20251206,204710,53,63.0,Female,Poland,none,X-ray,Philips EPIQ Elite,21518
+P0243,20230203,170455,63,59.3,Male,Japan,none,SPECT,Siemens Magnetom Skyra,12164
+P0244,20241123,124757,52,81.1,Female,United Kingdom,none,CT,Philips EPIQ Elite,19574
+P0245,20240701,162553,70,78.7,Male,Italy,Penicillin,PET,Siemens Magnetom Aera,92678
+P0246,20230423,180048,69,113.1,Female,Netherlands,none,Ultrasound,Philips iCT 256,31665
+P0247,20250815,205630,60,74.1,Female,Netherlands,none,Ultrasound,GE Optima CT660,77882
+P0248,20240823,072635,63,72.4,Female,Poland,none,Ultrasound,Siemens Magnetom Skyra,30223
+P0249,20231025,122554,76,77.9,Male,Germany,none,SPECT,Canon Vantage Galan 3T,21562
+P0250,20250520,093813,67,65.6,Male,Ireland,none,PET,Siemens Magnetom Skyra,44387
+P0251,20231009,142135,39,70.5,Male,France,none,X-ray,Siemens Magnetom Aera,49841
+P0252,20230603,165042,64,74.2,Female,United Kingdom,Penicillin,Ultrasound,Canon Aquilion ONE,44581
+P0253,20250114,083657,48,73.9,Male,Poland,none,MRI,GE Signa HDXt,66561
+P0254,20240201,160311,67,51.0,Female,Spain,none,Ultrasound,GE Optima CT660,62835
+P0255,20230417,110815,69,106.2,Male,United Kingdom,none,PET,GE Discovery MI,77756
+P0256,20230927,185621,49,75.0,Female,Netherlands,none,Ultrasound,Canon Aquilion ONE,10182
+P0257,20240903,104556,51,72.1,Male,United Kingdom,none,SPECT,Siemens Somatom Definition AS,71783
+P0258,20250301,092056,66,118.2,Male,Spain,none,CT,Canon Vantage Galan 3T,67738
+P0259,20250531,174731,49,56.9,Female,Ireland,none,CT,Canon Aquilion ONE,14110
+P0260,20230718,112507,52,116.7,Female,United Kingdom,Penicillin,X-ray,Siemens Somatom Definition AS,80006
+P0261,20250902,163750,62,80.8,Male,Portugal,none,X-ray,Canon Vantage Galan 3T,48422
+P0262,20250327,183009,37,95.6,Female,Netherlands,none,PET,Philips iCT 256,16863
+P0263,20230311,153030,68,62.2,Female,Spain,none,PET,Canon Vantage Galan 3T,47296
+P0264,20231213,103847,66,77.5,Male,Greece,none,PET,Canon Vantage Galan 3T,24399
+P0265,20250625,093223,65,70.6,Female,Spain,none,CT,Siemens Somatom Definition AS,64350
+P0266,20250826,185257,57,68.3,Female,Brazil,none,CT,Philips Ingenia 3.0T,27632
+P0267,20240215,122031,73,77.4,Male,Portugal,none,SPECT,Philips EPIQ Elite,56747
+P0268,20230329,142602,46,80.8,Male,Netherlands,none,Ultrasound,Siemens Magnetom Aera,33056
+P0269,20230221,155209,65,74.1,Male,Portugal,none,MRI,Canon Vantage Galan 3T,13930
+P0270,20241103,163253,61,74.4,Female,Greece,Penicillin,SPECT,Philips EPIQ Elite,61141
+P0271,20231118,183412,74,70.5,Male,Brazil,none,X-ray,Philips Ingenia 3.0T,52270
+P0272,20230330,153353,68,100.0,Male,Germany,none,MRI,Canon Vantage Galan 3T,20286
+P0273,20250412,084547,42,68.4,Female,Ireland,none,SPECT,GE Discovery MI,97919
+P0274,20230123,163855,57,80.6,Female,France,none,SPECT,Philips iCT 256,79498
+P0275,20241209,165802,56,66.4,Male,Ireland,none,PET,Philips EPIQ Elite,48731
+P0276,20250820,114035,62,78.3,Unknown,Germany,none,MRI,Philips Ingenia 3.0T,11047
+P0277,20250828,073657,52,83.7,Male,Netherlands,none,CT,Siemens Somatom Definition AS,10800
+P0278,20240224,122953,55,78.6,Female,Sweden,none,CT,Siemens Magnetom Skyra,62971
+P0279,20230306,202301,52,84.4,Unknown,Italy,none,Ultrasound,Canon Aquilion ONE,15078
+P0280,20230930,182811,59,82.0,Male,Italy,Penicillin,PET,Siemens Magnetom Skyra,46395
+P0281,20250604,094548,62,71.9,Female,Portugal,none,Ultrasound,Canon Vantage Galan 3T,51612
+P0282,20250404,174007,52,60.8,Unknown,Poland,none,X-ray,Philips iCT 256,69259
+P0283,20250623,083921,71,71.3,Female,Germany,none,X-ray,Canon Aquilion ONE,26980
+P0284,20231019,133438,58,58.9,Male,Italy,none,SPECT,Siemens Magnetom Skyra,87842
+P0285,20250203,123305,60,98.6,Male,United Kingdom,none,Ultrasound,Siemens Magnetom Skyra,13072
+P0286,20240824,075313,49,57.9,Unknown,Sweden,Penicillin,SPECT,Canon Vantage Galan 3T,11627
+P0287,20230723,132524,75,117.5,Unknown,Portugal,none,CT,Canon Vantage Galan 3T,95118
+P0288,20251011,165431,62,80.9,Male,Netherlands,none,SPECT,GE Optima CT660,35706
+P0289,20230102,135943,52,72.4,Female,Portugal,none,MRI,Philips Ingenia 3.0T,48941
+P0290,20240516,140605,63,67.3,Female,France,none,CT,Siemens Somatom Definition AS,68661
+P0291,20250227,132421,72,76.6,Female,India,none,X-ray,Siemens Magnetom Aera,82321
+P0292,20250212,100533,59,80.3,Female,Poland,none,MRI,Siemens Magnetom Aera,88021
+P0293,20240715,115837,62,47.5,Male,Spain,none,CT,Philips EPIQ Elite,94352
+P0294,20240320,202605,46,75.2,Male,France,none,X-ray,Siemens Magnetom Skyra,84697
+P0295,20230329,171723,61,106.2,Unknown,India,none,X-ray,Siemens Magnetom Aera,26033
+P0296,20250303,134324,40,79.6,Female,Italy,none,Ultrasound,Siemens Somatom Definition AS,22610
+P0297,20230222,074954,63,80.4,Female,Netherlands,none,MRI,Canon Vantage Galan 3T,28211
+P0298,20230825,202231,62,72.8,Female,Netherlands,Penicillin,MRI,Canon Vantage Galan 3T,33023
+P0299,20230322,163605,49,76.7,Unknown,Italy,none,MRI,Siemens Magnetom Aera,85333
+P0300,20251206,152252,69,81.4,Unknown,Spain,none,SPECT,Philips iCT 256,40494
+P0301,20230820,183624,53,45.3,Male,United Kingdom,none,X-ray,Siemens Somatom Definition AS,62543
+P0302,20221227,200403,84,80.1,Female,Ireland,none,Ultrasound,Canon Vantage Galan 3T,87055
+P0303,20230720,174013,52,47.5,Female,United Kingdom,none,MRI,GE Optima CT660,18671
+P0304,20250318,151931,70,51.5,Female,Sweden,none,Ultrasound,Canon Aquilion ONE,79441
+P0305,20230519,201413,74,88.9,Female,Ireland,none,CT,Siemens Magnetom Skyra,56195
+P0306,20230416,130107,68,72.9,Female,Sweden,none,X-ray,Canon Aquilion ONE,41630
+P0307,20231007,091214,51,72.0,Male,Mexico,Penicillin,MRI,Siemens Magnetom Skyra,87578
+P0308,20230121,170812,53,75.9,Unknown,Spain,none,MRI,Philips Ingenia 3.0T,12490
+P0309,20230121,204954,50,94.7,Female,Netherlands,none,SPECT,Siemens Somatom Definition AS,43149
+P0310,20250217,193621,67,66.1,Female,Sweden,none,X-ray,Philips iCT 256,79697
+P0311,20240806,153052,45,75.3,Male,Italy,Penicillin,Ultrasound,GE Optima CT660,49525
+P0312,20240920,113423,56,46.9,Female,Japan,none,PET,Philips iCT 256,68139
+P0313,20231209,185237,69,100.3,Male,Portugal,none,SPECT,GE Optima CT660,95003
+P0314,20230603,160831,48,119.6,Female,China,none,PET,Canon Vantage Galan 3T,85715
+P0315,20250412,174601,72,55.3,Female,Italy,none,PET,Philips Ingenia 3.0T,17919
+P0316,20241207,180525,51,108.7,Female,Netherlands,none,Ultrasound,GE Discovery MI,27705
+P0317,20240507,170458,54,94.2,Male,Germany,none,SPECT,GE Optima CT660,52011
+P0318,20250317,183706,58,75.9,Female,Sweden,none,PET,Siemens Somatom Definition AS,21708
+P0319,20240703,121301,54,76.3,Male,France,none,X-ray,GE Discovery MI,12958
+P0320,20240701,174349,39,80.7,Female,Greece,none,MRI,Philips iCT 256,86969
+P0321,20230531,085937,62,103.7,Male,Sweden,none,PET,Canon Vantage Galan 3T,48851
+P0322,20240628,150105,47,80.9,Male,China,Penicillin,SPECT,Canon Vantage Galan 3T,55488
+P0323,20250619,190356,78,78.4,Female,India,none,X-ray,Philips EPIQ Elite,58877
+P0324,20230924,120122,56,69.5,Female,France,none,Ultrasound,Philips EPIQ Elite,35324
+P0325,20241215,140618,68,84.7,Male,Poland,none,MRI,Philips iCT 256,34960
+P0326,20230408,112503,62,70.3,Female,France,none,X-ray,Siemens Magnetom Aera,20874
+P0327,20240614,130417,68,82.3,Male,Sweden,none,MRI,GE Optima CT660,69489
+P0328,20250212,201123,69,84.6,Female,Netherlands,none,CT,Siemens Magnetom Skyra,19356
+P0329,20230717,200245,63,83.6,Male,Greece,none,SPECT,Canon Vantage Galan 3T,96561
+P0330,20240322,182858,55,77.9,Female,Ireland,none,MRI,Siemens Magnetom Skyra,66828
+P0331,20240107,203859,80,107.4,Female,Sweden,none,SPECT,Philips iCT 256,47561
+P0332,20250607,120547,50,84.5,Female,Spain,none,Ultrasound,Philips EPIQ Elite,65562
+P0333,20230110,094725,58,64.6,Male,Sweden,none,MRI,Siemens Magnetom Skyra,77774
+P0334,20231219,201405,52,79.6,Female,Poland,none,Ultrasound,Philips Ingenia 3.0T,56873
+P0335,20250307,075652,61,56.9,Female,France,none,Ultrasound,GE Signa HDXt,37174
+P0336,20230826,204817,46,48.2,Female,Mexico,Penicillin,X-ray,Philips iCT 256,69846
+P0337,20241113,071602,60,95.3,Female,France,none,SPECT,GE Signa HDXt,24491
+P0338,20250922,115959,55,77.1,Female,Poland,none,CT,Canon Aquilion ONE,60437
+P0339,20231211,080411,58,118.1,Male,Mexico,none,Ultrasound,GE Optima CT660,19013
+P0340,20240211,184105,60,80.9,Male,India,none,Ultrasound,Siemens Somatom Definition AS,28323
+P0341,20250417,135526,65,59.4,Male,Sweden,none,MRI,GE Discovery MI,58954
+P0342,20230318,075043,70,77.6,Female,Germany,none,PET,Philips iCT 256,12022
+P0343,20250902,150117,50,80.7,Female,China,Penicillin,MRI,Philips EPIQ Elite,35393
+P0344,20240806,163522,50,80.4,Male,Mexico,none,Ultrasound,GE Discovery MI,29256
+P0345,20250819,081624,55,83.6,Unknown,Germany,none,MRI,Siemens Somatom Definition AS,27939
+P0346,20241219,110801,73,59.2,Female,Ireland,Penicillin,Ultrasound,Philips Ingenia 3.0T,40817
+P0347,20250531,173852,70,77.7,Male,Greece,none,CT,GE Discovery MI,15244
+P0348,20230309,105354,64,108.8,Male,Portugal,none,X-ray,Siemens Magnetom Aera,78267
+P0349,20230828,175405,55,99.1,Female,Germany,none,PET,GE Signa HDXt,81867
+P0350,20250227,094757,83,82.5,Female,Brazil,none,MRI,Philips Ingenia 3.0T,61021
+P0351,20240923,181624,46,115.0,Female,France,none,MRI,GE Discovery MI,23433
+P0352,20250822,083131,76,82.7,Female,Greece,none,PET,GE Signa HDXt,35573
+P0353,20241116,190722,52,106.6,Male,Spain,none,SPECT,GE Optima CT660,87639
+P0354,20250905,075404,52,74.6,Male,Portugal,none,CT,Siemens Magnetom Skyra,62739
+P0355,20230710,125925,74,80.8,Female,Ireland,Penicillin,MRI,Siemens Magnetom Skyra,86454
+P0356,20240107,172534,64,99.6,Male,Germany,none,MRI,GE Optima CT660,63472
+P0357,20241218,071541,56,76.2,Female,Poland,none,X-ray,Canon Aquilion ONE,86082
+P0358,20241105,185804,58,79.6,Female,China,none,X-ray,Philips iCT 256,11662
+P0359,20230617,181357,67,92.0,Female,Brazil,none,PET,Philips iCT 256,29100
+P0360,20231019,093542,63,75.2,Female,Germany,none,MRI,Philips iCT 256,96428
+P0361,20240708,195808,60,59.9,Female,Brazil,none,SPECT,Philips iCT 256,62169
+P0362,20250921,103720,53,79.8,Male,Poland,none,MRI,Canon Aquilion ONE,61547
+P0363,20240226,124206,63,52.7,Female,Ireland,none,X-ray,Canon Vantage Galan 3T,62239
+P0364,20240321,172820,81,102.7,Female,Brazil,none,MRI,GE Optima CT660,43528
+P0365,20251207,153910,47,70.8,Male,Portugal,none,X-ray,Philips Ingenia 3.0T,93859
+P0366,20230219,144203,74,68.3,Unknown,France,none,MRI,GE Optima CT660,55805
+P0367,20240927,190845,47,79.0,Male,Mexico,Penicillin,PET,Philips Ingenia 3.0T,86674
+P0368,20241018,143735,66,115.1,Male,Sweden,none,PET,Siemens Magnetom Aera,72850
+P0369,20240828,071703,59,120.8,Unknown,Netherlands,Penicillin,SPECT,GE Signa HDXt,45119
+P0370,20250201,091749,62,121.9,Male,Netherlands,none,CT,GE Discovery MI,49161
+P0371,20250401,142252,56,83.3,Female,United Kingdom,Penicillin,Ultrasound,Siemens Magnetom Aera,51575
+P0372,20251128,145642,53,101.5,Male,Sweden,none,CT,Siemens Somatom Definition AS,72982
+P0373,20230601,165030,70,72.5,Unknown,Italy,none,X-ray,Philips EPIQ Elite,53652
+P0374,20230811,204433,61,78.4,Male,China,none,Ultrasound,Siemens Magnetom Skyra,36435
+P0375,20230521,193741,67,52.0,Male,India,none,CT,Philips iCT 256,95185
+P0376,20240613,170749,44,78.1,Male,China,none,X-ray,Siemens Somatom Definition AS,78230
+P0377,20250307,130937,75,73.3,Female,Spain,none,PET,Philips EPIQ Elite,61559
+P0378,20240411,195711,59,78.8,Male,Italy,none,SPECT,Canon Vantage Galan 3T,77689
+P0379,20251115,154710,72,93.6,Female,Poland,none,X-ray,Siemens Magnetom Skyra,21299
+P0380,20240725,111030,68,91.2,Male,France,none,MRI,Philips EPIQ Elite,25212
+P0381,20251110,132014,64,45.0,Female,Greece,none,MRI,GE Discovery MI,95002
+P0382,20250511,164048,64,117.0,Female,Brazil,Penicillin,Ultrasound,Canon Aquilion ONE,92149
+P0383,20240512,154150,43,108.1,Female,Poland,none,SPECT,Philips Ingenia 3.0T,67671
+P0384,20250225,112140,60,75.1,Female,Sweden,none,MRI,GE Optima CT660,71690
+P0385,20240904,105944,50,79.4,Male,Netherlands,Penicillin,Ultrasound,Philips Ingenia 3.0T,20606
+P0386,20231023,200609,68,78.8,Male,Netherlands,Penicillin,X-ray,Siemens Magnetom Aera,61077
+P0387,20251119,114637,62,73.4,Male,United Kingdom,Penicillin,Ultrasound,Siemens Somatom Definition AS,40047
+P0388,20230915,093028,71,76.5,Female,Sweden,none,SPECT,Siemens Magnetom Skyra,15519
+P0389,20240309,143154,49,56.8,Male,Sweden,none,MRI,GE Optima CT660,28244
+P0390,20240801,073556,46,115.4,Female,Japan,Penicillin,PET,GE Discovery MI,77620
+P0391,20230211,155145,62,78.3,Male,Netherlands,none,CT,GE Discovery MI,29857
+P0392,20230225,103327,54,115.0,Male,Sweden,none,SPECT,Siemens Magnetom Aera,62936
+P0393,20250319,101132,55,72.1,Female,India,none,Ultrasound,GE Signa HDXt,30777
+P0394,20240129,081044,70,67.3,Female,France,none,X-ray,Canon Aquilion ONE,19347
+P0395,20241115,095248,53,88.2,Female,France,none,X-ray,Philips iCT 256,16356
+P0396,20240613,150115,74,82.3,Male,Mexico,Penicillin,Ultrasound,Philips Ingenia 3.0T,11185
+P0397,20230401,144123,63,76.7,Female,Germany,none,PET,Philips Ingenia 3.0T,84513
+P0398,20250925,073647,72,100.4,Male,China,none,Ultrasound,GE Signa HDXt,97429
+P0399,20230730,103845,52,79.9,Female,India,none,CT,GE Signa HDXt,68315
+P0400,20250612,184144,61,66.3,Female,Germany,Penicillin,CT,Siemens Magnetom Skyra,81386
+P0401,20240520,163557,83,75.7,Female,Italy,Penicillin,MRI,GE Optima CT660,54176
+P0402,20240930,163952,40,63.4,Male,United Kingdom,none,SPECT,GE Signa HDXt,57677
+P0403,20240628,113832,62,74.5,Female,Germany,none,SPECT,GE Optima CT660,18883
+P0404,20241209,185833,65,58.7,Male,Netherlands,none,X-ray,Siemens Magnetom Aera,30823
+P0405,20231222,182207,68,46.7,Female,Netherlands,none,SPECT,Philips EPIQ Elite,81101
+P0406,20241221,152022,69,77.0,Female,Germany,none,SPECT,GE Optima CT660,29824
+P0407,20240818,152317,67,74.0,Female,Greece,none,MRI,GE Signa HDXt,63964
+P0408,20231230,123853,64,98.8,Male,Germany,none,X-ray,Philips iCT 256,81461
+P0409,20230620,194607,46,78.7,Male,Japan,none,CT,Canon Aquilion ONE,60967
+P0410,20230209,094639,41,78.6,Unknown,Spain,none,CT,GE Optima CT660,22583
+P0411,20251120,082031,58,79.6,Male,Poland,Penicillin,MRI,Siemens Somatom Definition AS,57198
+P0412,20230605,192049,50,54.3,Female,Poland,none,MRI,GE Discovery MI,86393
+P0413,20240724,193636,62,77.3,Female,Poland,Penicillin,CT,Philips EPIQ Elite,48693
+P0414,20250501,172533,64,76.0,Male,Ireland,none,X-ray,GE Discovery MI,67449
+P0415,20230505,142812,47,78.9,Female,Greece,none,CT,GE Signa HDXt,47620
+P0416,20230314,091339,70,71.9,Female,Germany,Penicillin,Ultrasound,Canon Aquilion ONE,79718
+P0417,20230528,190630,84,56.5,Female,China,none,PET,Philips Ingenia 3.0T,31218
+P0418,20230110,073946,67,45.8,Male,Spain,none,MRI,Siemens Magnetom Aera,86423
+P0419,20250704,144441,57,75.5,Unknown,India,none,PET,Siemens Somatom Definition AS,90252
+P0420,20240721,173148,70,82.3,Male,Mexico,none,X-ray,Siemens Somatom Definition AS,45026
+P0421,20240619,083052,57,83.0,Female,Italy,none,CT,Canon Vantage Galan 3T,38613
+P0422,20221217,080501,60,53.6,Unknown,France,none,SPECT,Philips EPIQ Elite,83475
+P0423,20230706,192249,61,92.8,Male,Portugal,none,CT,Philips EPIQ Elite,74266
+P0424,20230724,084854,66,79.4,Unknown,United Kingdom,none,SPECT,GE Signa HDXt,81739
+P0425,20231208,084621,70,79.0,Female,Poland,Penicillin,PET,Siemens Somatom Definition AS,31468
+P0426,20250912,082203,61,75.1,Female,Sweden,none,X-ray,Philips EPIQ Elite,97198
+P0427,20240109,101852,56,96.4,Female,Mexico,Penicillin,MRI,GE Signa HDXt,26845
+P0428,20251113,175832,62,81.2,Female,France,Penicillin,X-ray,GE Discovery MI,99107
+P0429,20250622,150523,50,75.6,Unknown,Brazil,Penicillin,MRI,GE Signa HDXt,30403
+P0430,20251101,170815,73,68.9,Female,Italy,none,Ultrasound,GE Optima CT660,60842
+P0431,20230110,204546,71,73.3,Female,United Kingdom,Penicillin,Ultrasound,GE Signa HDXt,41810
+P0432,20240513,110758,66,59.1,Male,Greece,none,MRI,Siemens Magnetom Aera,38429
+P0433,20250326,130107,60,84.0,Male,Italy,none,X-ray,Philips iCT 256,74398
+P0434,20230913,135514,66,77.6,Male,Portugal,none,Ultrasound,GE Optima CT660,24667
+P0435,20240515,195624,59,80.8,Female,Spain,none,PET,GE Discovery MI,35378
+P0436,20230119,143415,56,45.6,Female,France,none,SPECT,GE Discovery MI,68880
+P0437,20230904,101250,65,51.6,Female,Brazil,none,MRI,Siemens Magnetom Aera,85804
+P0438,20250806,164643,73,64.0,Female,India,none,Ultrasound,Siemens Magnetom Skyra,94735
+P0439,20240530,162542,61,81.0,Male,Sweden,none,PET,Philips EPIQ Elite,31574
+P0440,20230813,074130,64,82.7,Female,Mexico,none,MRI,Philips Ingenia 3.0T,96670
+P0441,20230608,161702,48,61.4,Male,Ireland,none,CT,Philips iCT 256,64830
+P0442,20230201,185235,45,78.2,Male,Netherlands,none,CT,Philips Ingenia 3.0T,70989
+P0443,20250329,161756,57,78.3,Male,Netherlands,none,PET,GE Optima CT660,14941
+P0444,20250505,150643,38,71.9,Male,Ireland,none,MRI,GE Optima CT660,65053
+P0445,20240321,182410,61,84.6,Female,Brazil,none,PET,Siemens Somatom Definition AS,13141
+P0446,20230804,074702,46,80.7,Female,Greece,none,MRI,Philips EPIQ Elite,66099
+P0447,20230130,100512,67,95.4,Male,Netherlands,none,SPECT,Siemens Magnetom Skyra,11010
+P0448,20230216,104948,43,72.8,Female,United Kingdom,Penicillin,CT,Siemens Magnetom Aera,47551
+P0449,20231203,093705,63,121.8,Male,Italy,Penicillin,MRI,GE Signa HDXt,48262
+P0450,20231024,072625,72,45.1,Male,Italy,none,X-ray,Philips EPIQ Elite,15296
+P0451,20251001,100638,62,73.7,Female,Greece,none,PET,Siemens Magnetom Aera,28505
+P0452,20230917,143934,66,72.5,Female,Sweden,none,PET,Siemens Magnetom Skyra,14067
+P0453,20251117,084822,77,121.7,Female,United Kingdom,none,Ultrasound,Philips Ingenia 3.0T,51924
+P0454,20230708,085137,71,117.4,Female,Sweden,Penicillin,X-ray,GE Optima CT660,40380
+P0455,20231214,185536,78,51.4,Male,Netherlands,none,PET,Canon Vantage Galan 3T,73210
+P0456,20240513,082219,58,73.0,Female,Sweden,none,X-ray,Philips Ingenia 3.0T,20073
+P0457,20251017,151307,52,78.7,Female,Greece,Penicillin,MRI,Siemens Somatom Definition AS,19294
+P0458,20240320,165709,59,66.3,Female,China,none,MRI,Philips EPIQ Elite,41770
+P0459,20240930,113050,72,57.8,Female,Portugal,Penicillin,CT,GE Discovery MI,39680
+P0460,20230118,120549,71,78.7,Male,Brazil,none,PET,Canon Aquilion ONE,33459
+P0461,20230719,171314,45,83.3,Female,Sweden,Penicillin,Ultrasound,Philips iCT 256,41975
+P0462,20230101,152343,60,116.7,Male,China,Penicillin,SPECT,GE Discovery MI,17008
+P0463,20240423,204821,75,89.4,Female,Portugal,Penicillin,X-ray,Philips Ingenia 3.0T,55056
+P0464,20240512,130920,59,91.1,Male,France,none,Ultrasound,GE Optima CT660,59700
+P0465,20231128,101022,57,58.2,Male,Spain,none,CT,Canon Vantage Galan 3T,66654
+P0466,20250629,092731,64,80.4,Female,Netherlands,none,X-ray,Canon Aquilion ONE,96319
+P0467,20250311,103652,62,77.9,Male,Portugal,none,X-ray,GE Optima CT660,99756
+P0468,20231113,203106,64,74.2,Unknown,Portugal,none,X-ray,GE Discovery MI,68492
+P0469,20251127,205442,49,83.2,Male,Poland,none,MRI,GE Discovery MI,55843
+P0470,20251202,184928,39,74.4,Male,United Kingdom,none,PET,GE Signa HDXt,70430
+P0471,20251113,103725,51,72.5,Female,France,none,Ultrasound,Siemens Magnetom Aera,50404
+P0472,20251122,110915,40,75.7,Male,Portugal,none,PET,Siemens Somatom Definition AS,90773
+P0473,20230909,202247,57,83.6,Female,Portugal,none,CT,Philips iCT 256,86669
+P0474,20240127,170022,48,84.3,Female,Italy,none,X-ray,GE Optima CT660,97028
+P0475,20230920,111746,40,58.4,Male,India,none,PET,Canon Aquilion ONE,46369
+P0476,20230513,185416,42,76.2,Female,Ireland,none,Ultrasound,GE Optima CT660,29079
+P0477,20230819,180312,55,77.4,Male,Sweden,Penicillin,Ultrasound,Siemens Magnetom Aera,18643
+P0478,20240729,074711,64,114.0,Unknown,Netherlands,none,MRI,GE Signa HDXt,11010
+P0479,20240818,074539,53,89.5,Unknown,Netherlands,none,CT,Canon Aquilion ONE,99070
+P0480,20231026,110854,45,52.9,Female,Portugal,none,SPECT,Siemens Somatom Definition AS,37414
+P0481,20250416,153551,71,82.9,Male,Portugal,none,Ultrasound,Philips EPIQ Elite,46118
+P0482,20250502,193536,54,81.1,Male,Netherlands,none,PET,Siemens Magnetom Aera,69957
+P0483,20250428,144016,69,93.2,Male,China,none,CT,Philips Ingenia 3.0T,16141
+P0484,20230303,083304,50,77.4,Male,France,none,CT,Siemens Magnetom Skyra,10135
+P0485,20240113,115353,59,64.7,Female,United Kingdom,Penicillin,SPECT,Philips iCT 256,16282
+P0486,20251102,071904,54,79.1,Female,Italy,Penicillin,X-ray,Philips EPIQ Elite,64452
+P0487,20240808,152428,57,116.0,Male,Poland,none,PET,Canon Aquilion ONE,12835
+P0488,20230517,111223,56,76.4,Female,Portugal,none,SPECT,GE Signa HDXt,26526
+P0489,20240218,130226,75,99.4,Male,Mexico,none,MRI,Siemens Somatom Definition AS,20906
+P0490,20250301,071659,44,51.0,Male,Germany,none,MRI,Canon Vantage Galan 3T,36081
+P0491,20230604,155747,73,62.9,Male,Poland,none,CT,GE Signa HDXt,71633
+P0492,20250506,185154,51,80.7,Male,China,none,X-ray,Philips EPIQ Elite,92530
+P0493,20241228,180240,65,66.8,Female,Sweden,none,CT,Philips EPIQ Elite,99294
+P0494,20250921,085502,70,75.1,Female,Italy,Penicillin,MRI,Canon Vantage Galan 3T,10366
+P0495,20250813,172540,53,77.0,Female,United Kingdom,none,PET,Canon Vantage Galan 3T,93509
+P0496,20240128,095525,67,75.4,Unknown,Mexico,none,X-ray,Siemens Magnetom Aera,14482
+P0497,20240408,072536,60,67.4,Unknown,Germany,none,SPECT,GE Optima CT660,47960
+P0498,20241018,130603,85,99.2,Unknown,Sweden,none,MRI,Philips Ingenia 3.0T,96837
+P0499,20250527,075501,55,65.9,Male,United Kingdom,Penicillin,Ultrasound,Canon Vantage Galan 3T,39479
+P0500,20250703,161207,41,81.5,Male,Ireland,none,SPECT,Siemens Magnetom Aera,59668
+P0501,20250403,135710,43,79.4,Male,Poland,Penicillin,CT,GE Discovery MI,37623
+P0502,20240707,165938,57,73.1,Female,Brazil,none,X-ray,Philips iCT 256,26481
+P0503,20250816,071830,65,79.3,Female,Spain,none,X-ray,GE Discovery MI,55640
+P0504,20231028,173947,44,75.9,Female,Netherlands,none,SPECT,GE Discovery MI,38569
+P0505,20250103,135343,74,81.5,Female,France,none,CT,GE Signa HDXt,68878
+P0506,20250609,142336,72,77.0,Female,Brazil,Penicillin,X-ray,Canon Vantage Galan 3T,37302
+P0507,20251121,184335,57,80.7,Female,Sweden,none,SPECT,GE Signa HDXt,87474
+P0508,20240412,161323,64,119.6,Male,France,none,SPECT,Siemens Magnetom Aera,10488
+P0509,20230922,125747,72,63.8,Male,Greece,none,SPECT,Canon Vantage Galan 3T,35858
+P0510,20240605,153303,57,80.4,Male,France,none,X-ray,Siemens Magnetom Aera,38850
+P0511,20240316,112012,54,85.2,Female,United Kingdom,none,PET,GE Optima CT660,38761
+P0512,20240724,175940,58,89.9,Male,United Kingdom,none,MRI,Philips EPIQ Elite,96026
+P0513,20250210,164641,76,81.3,Unknown,Sweden,none,X-ray,GE Optima CT660,60683
+P0514,20240407,191453,58,120.1,Male,Sweden,none,CT,Siemens Magnetom Aera,79156
+P0515,20240429,130050,52,71.5,Female,Spain,Penicillin,Ultrasound,Canon Vantage Galan 3T,97664
+P0516,20240729,195814,55,52.5,Unknown,Greece,Penicillin,PET,Philips iCT 256,54327
+P0517,20230830,101828,59,120.5,Female,Netherlands,none,X-ray,GE Optima CT660,12928
+P0518,20250818,095339,59,92.7,Male,Sweden,none,X-ray,Siemens Magnetom Aera,66330
+P0519,20250706,122509,53,46.1,Female,United Kingdom,none,Ultrasound,Philips iCT 256,18539
+P0520,20240116,072937,56,80.8,Female,Netherlands,none,X-ray,Philips Ingenia 3.0T,83484
+P0521,20240802,103607,49,76.9,Female,Greece,none,PET,Canon Aquilion ONE,81002
+P0522,20250707,121423,67,100.6,Female,Greece,none,PET,Canon Aquilion ONE,29054
+P0523,20250518,125617,59,66.8,Female,Portugal,Penicillin,SPECT,Siemens Magnetom Aera,13658
+P0524,20250617,164838,45,111.2,Male,Sweden,none,PET,Philips iCT 256,99602
+P0525,20241126,092929,58,70.4,Female,Portugal,none,Ultrasound,GE Discovery MI,38458
+P0526,20250405,083419,63,82.7,Male,France,none,Ultrasound,GE Discovery MI,79823
+P0527,20231019,153500,61,67.0,Female,Poland,Penicillin,CT,Siemens Somatom Definition AS,40146
+P0528,20231022,103049,53,109.3,Female,France,none,MRI,Philips iCT 256,88694
+P0529,20250706,195245,60,72.1,Male,Spain,none,Ultrasound,Canon Vantage Galan 3T,40600
+P0530,20250221,201012,60,80.4,Male,Germany,Penicillin,CT,Siemens Magnetom Skyra,54396
+P0531,20251023,174243,62,45.5,Male,Spain,none,PET,Philips iCT 256,68647
+P0532,20251210,131651,61,74.4,Female,United Kingdom,none,X-ray,Canon Aquilion ONE,12464
+P0533,20240315,203739,57,84.7,Male,Germany,none,Ultrasound,Siemens Somatom Definition AS,21645
+P0534,20221231,202628,63,83.5,Female,India,Penicillin,CT,GE Discovery MI,47897
+P0535,20250826,193615,75,80.9,Female,Spain,none,CT,Canon Vantage Galan 3T,68132
+P0536,20230402,135931,48,72.9,Male,United Kingdom,Penicillin,Ultrasound,Philips iCT 256,54533
+P0537,20230619,153603,75,74.3,Female,India,Penicillin,SPECT,Canon Vantage Galan 3T,81251
+P0538,20241107,190924,81,90.6,Male,Poland,none,CT,Siemens Magnetom Skyra,40401
+P0539,20250428,095652,65,79.6,Male,Netherlands,none,CT,Siemens Magnetom Aera,21230
+P0540,20230107,075504,55,68.7,Female,Spain,none,CT,Canon Aquilion ONE,29556
+P0541,20250307,162032,65,75.8,Female,Germany,none,CT,Philips iCT 256,91931
+P0542,20250126,145833,57,77.9,Unknown,Netherlands,none,CT,Siemens Magnetom Skyra,83358
+P0543,20241006,090016,48,84.9,Male,France,none,MRI,Philips EPIQ Elite,68286
+P0544,20240318,071354,71,82.9,Female,Italy,none,X-ray,Philips Ingenia 3.0T,44688
+P0545,20240215,090708,64,57.3,Female,Mexico,none,CT,GE Discovery MI,23721
+P0546,20240412,110007,66,74.9,Unknown,United Kingdom,Penicillin,MRI,GE Signa HDXt,58798
+P0547,20241129,082344,56,45.2,Female,China,none,MRI,GE Signa HDXt,69943
+P0548,20240328,071131,71,79.5,Female,Poland,none,Ultrasound,Siemens Magnetom Skyra,32107
+P0549,20250613,123558,55,71.2,Male,Sweden,none,SPECT,Siemens Magnetom Skyra,50559
+P0550,20240327,090535,62,77.3,Male,United Kingdom,none,PET,Canon Aquilion ONE,55815
+P0551,20230516,074809,57,121.8,Female,Portugal,none,PET,Philips Ingenia 3.0T,41309
+P0552,20230827,150230,54,63.9,Female,Poland,none,Ultrasound,GE Discovery MI,45406
+P0553,20231011,072400,69,71.8,Female,India,none,CT,GE Optima CT660,98036
+P0554,20240729,130253,66,83.5,Male,France,none,Ultrasound,Siemens Magnetom Aera,79195
+P0555,20240304,185759,55,79.8,Female,Italy,none,Ultrasound,Philips EPIQ Elite,25330
+P0556,20230412,071746,45,84.1,Female,Italy,none,SPECT,Philips EPIQ Elite,11949
+P0557,20221217,143218,54,75.9,Female,China,Penicillin,X-ray,Siemens Somatom Definition AS,46491
+P0558,20250618,172528,67,71.6,Male,Ireland,none,X-ray,Siemens Magnetom Skyra,47419
+P0559,20230120,172340,44,77.9,Female,Japan,none,SPECT,GE Signa HDXt,60196
+P0560,20240122,102650,39,79.7,Female,Greece,none,PET,Siemens Somatom Definition AS,18209
+P0561,20250906,195605,52,78.8,Male,France,none,X-ray,Canon Aquilion ONE,70285
+P0562,20230805,132228,63,111.3,Unknown,Italy,none,MRI,Canon Aquilion ONE,58968
+P0563,20230601,073842,65,80.1,Female,Sweden,none,Ultrasound,Philips EPIQ Elite,59552
+P0564,20231031,125832,57,45.4,Female,France,none,MRI,Canon Vantage Galan 3T,87362
+P0565,20231010,111613,61,80.5,Female,Japan,Penicillin,PET,GE Discovery MI,22026
+P0566,20250526,181736,50,80.7,Female,Portugal,none,X-ray,Siemens Somatom Definition AS,70857
+P0567,20230108,122925,66,76.4,Female,Portugal,none,MRI,Siemens Magnetom Aera,42699
+P0568,20230806,073748,63,60.1,Female,Greece,none,X-ray,Philips iCT 256,22755
+P0569,20240624,183145,54,73.4,Female,United Kingdom,Penicillin,PET,Philips Ingenia 3.0T,56554
+P0570,20250718,091126,49,78.8,Male,Portugal,none,CT,Siemens Magnetom Aera,90383
+P0571,20250515,094037,68,99.1,Female,Italy,none,PET,Canon Aquilion ONE,21557
+P0572,20240607,152556,63,116.1,Female,Italy,none,X-ray,Philips iCT 256,21203
+P0573,20251209,201538,61,73.5,Male,Italy,Penicillin,Ultrasound,Philips EPIQ Elite,66429
+P0574,20250314,191631,60,121.9,Female,China,none,CT,Canon Vantage Galan 3T,44388
+P0575,20240803,182335,44,82.3,Male,Italy,Penicillin,PET,Siemens Somatom Definition AS,61011
+P0576,20250926,082436,67,89.6,Female,France,none,MRI,Siemens Somatom Definition AS,87365
+P0577,20250614,172029,60,80.8,Female,France,none,PET,Canon Vantage Galan 3T,22952
+P0578,20240822,095834,56,79.9,Male,United Kingdom,none,SPECT,Canon Aquilion ONE,38351
+P0579,20241126,110112,85,117.9,Male,Poland,Penicillin,X-ray,Canon Aquilion ONE,79693
+P0580,20250226,171141,74,95.3,Male,Greece,none,Ultrasound,GE Optima CT660,88219
+P0581,20230221,164842,57,75.6,Male,United Kingdom,none,X-ray,GE Discovery MI,52811
+P0582,20241015,070035,58,83.8,Male,Sweden,Penicillin,CT,Siemens Magnetom Skyra,79701
+P0583,20241115,203040,52,75.8,Male,Ireland,none,PET,Siemens Somatom Definition AS,79445
+P0584,20230427,164844,59,77.1,Female,Poland,none,CT,Canon Vantage Galan 3T,65761
+P0585,20251113,174047,47,99.6,Male,Greece,none,MRI,GE Discovery MI,11365
+P0586,20251018,140717,58,80.5,Unknown,Germany,none,Ultrasound,GE Signa HDXt,17696
+P0587,20241224,174719,62,117.9,Unknown,Japan,none,MRI,GE Optima CT660,28178
+P0588,20230727,170110,66,59.1,Female,Netherlands,none,MRI,Philips EPIQ Elite,67145
+P0589,20230622,123932,76,76.5,Female,Germany,none,PET,Canon Vantage Galan 3T,29838
+P0590,20231209,074225,63,97.6,Female,Portugal,none,Ultrasound,Siemens Magnetom Skyra,73740
+P0591,20250409,124509,50,50.6,Male,Poland,none,CT,Canon Vantage Galan 3T,54081
+P0592,20230705,130840,53,79.3,Female,Germany,none,X-ray,Siemens Magnetom Aera,48082
+P0593,20250104,170328,74,77.3,Female,Ireland,none,MRI,Philips EPIQ Elite,90856
+P0594,20230114,141741,48,72.4,Male,Italy,none,CT,Siemens Somatom Definition AS,16493
+P0595,20240320,192616,59,59.1,Male,United Kingdom,none,SPECT,Siemens Magnetom Aera,91251
+P0596,20221230,111704,62,77.8,Male,United Kingdom,none,MRI,Canon Vantage Galan 3T,38602
+P0597,20240319,145637,86,113.8,Unknown,Spain,none,PET,Philips EPIQ Elite,53904
+P0598,20241108,143046,68,72.9,Male,China,none,MRI,Philips Ingenia 3.0T,28818
+P0599,20230301,131311,71,56.0,Female,Poland,none,X-ray,Philips EPIQ Elite,99508
+P0600,20251118,092139,55,66.6,Female,Germany,none,SPECT,Canon Vantage Galan 3T,26932
+P0601,20251130,121109,57,80.0,Female,Netherlands,Penicillin,Ultrasound,Siemens Magnetom Aera,76656
+P0602,20241023,133449,72,93.7,Male,Mexico,none,MRI,Philips Ingenia 3.0T,70741
+P0603,20241122,194208,77,97.3,Male,Greece,Penicillin,CT,Canon Vantage Galan 3T,66273
+P0604,20230315,184228,54,82.5,Female,Portugal,Penicillin,Ultrasound,Canon Vantage Galan 3T,26178
+P0605,20230201,155524,74,77.7,Female,Ireland,none,Ultrasound,Philips Ingenia 3.0T,38898
+P0606,20230726,162218,57,74.6,Female,United Kingdom,none,MRI,Siemens Magnetom Skyra,21955
+P0607,20250121,104105,53,51.8,Female,India,none,X-ray,Philips iCT 256,90545
+P0608,20230303,081701,61,116.2,Female,Spain,none,PET,Philips iCT 256,21463
+P0609,20250223,085134,87,72.6,Female,Brazil,Penicillin,PET,GE Signa HDXt,61346
+P0610,20240101,162833,76,77.8,Male,France,none,X-ray,Siemens Somatom Definition AS,19862
+P0611,20250521,092107,56,72.2,Unknown,Greece,none,X-ray,Philips EPIQ Elite,62484
+P0612,20240131,151539,71,78.3,Female,Spain,Penicillin,MRI,GE Discovery MI,52629
+P0613,20241017,091720,60,73.9,Male,Portugal,none,X-ray,GE Optima CT660,75444
+P0614,20240605,190112,47,78.1,Female,Poland,none,MRI,Siemens Magnetom Skyra,85252
+P0615,20240821,095735,67,77.9,Female,Sweden,none,SPECT,Philips EPIQ Elite,41685
+P0616,20230120,085643,52,90.8,Male,France,none,X-ray,GE Optima CT660,65690
+P0617,20240224,141356,58,116.9,Female,Netherlands,Penicillin,MRI,GE Discovery MI,81102
+P0618,20240704,161638,80,73.0,Male,Mexico,none,CT,Canon Vantage Galan 3T,83288
+P0619,20251014,123645,44,80.6,Female,Poland,none,SPECT,Siemens Magnetom Aera,23706
+P0620,20250410,093723,68,70.1,Female,Greece,none,SPECT,Canon Aquilion ONE,87770
+P0621,20250914,194643,62,81.9,Male,Japan,none,PET,GE Signa HDXt,57906
+P0622,20240424,071819,66,53.5,Female,Germany,none,SPECT,Siemens Somatom Definition AS,74237
+P0623,20230812,121710,63,82.3,Female,Japan,Penicillin,CT,GE Discovery MI,51015
+P0624,20230721,135840,46,72.8,Male,Italy,none,SPECT,Siemens Magnetom Skyra,99167
+P0625,20251126,181350,69,73.5,Male,India,none,PET,Siemens Magnetom Aera,64152
+P0626,20251202,162047,57,70.4,Male,India,none,X-ray,Siemens Magnetom Skyra,92107
+P0627,20250418,073300,52,119.4,Male,Ireland,none,Ultrasound,Siemens Magnetom Skyra,15295
+P0628,20231224,074618,58,60.7,Female,Japan,none,SPECT,GE Signa HDXt,40519
+P0629,20230313,104912,70,96.6,Male,Spain,none,MRI,GE Discovery MI,52155
+P0630,20240723,161854,79,82.4,Unknown,Sweden,none,SPECT,Philips EPIQ Elite,35810
+P0631,20250406,192924,82,57.8,Male,Spain,none,X-ray,Philips iCT 256,40931
+P0632,20240315,105346,74,53.5,Male,Greece,Penicillin,SPECT,Siemens Magnetom Aera,53060
+P0633,20230614,101810,53,70.3,Unknown,Germany,none,MRI,GE Discovery MI,80981
+P0634,20240326,113446,34,72.8,Male,Ireland,none,MRI,Philips EPIQ Elite,96827
+P0635,20230930,180053,65,94.9,Female,Sweden,none,Ultrasound,Canon Aquilion ONE,31188
+P0636,20240906,124116,56,83.8,Female,Italy,none,CT,GE Signa HDXt,36742
+P0637,20240802,103226,84,50.4,Male,Poland,none,X-ray,GE Signa HDXt,28232
+P0638,20240911,142042,73,65.8,Female,Sweden,none,SPECT,Philips EPIQ Elite,10607
+P0639,20250424,090444,63,64.0,Male,Spain,Penicillin,X-ray,Canon Vantage Galan 3T,78069
+P0640,20250124,164617,60,77.4,Male,Ireland,none,PET,Canon Aquilion ONE,62000
+P0641,20230102,140204,67,74.1,Female,Ireland,none,PET,GE Signa HDXt,33139
+P0642,20250618,135627,68,70.1,Female,Portugal,none,Ultrasound,Siemens Magnetom Skyra,90215
+P0643,20240826,070031,47,52.0,Unknown,Netherlands,Penicillin,MRI,GE Discovery MI,97021
+P0644,20251112,190236,54,72.0,Male,Italy,none,Ultrasound,Canon Vantage Galan 3T,16241
+P0645,20251024,125214,66,61.5,Unknown,France,none,CT,Siemens Magnetom Aera,73462
+P0646,20230326,135731,54,79.2,Female,Germany,none,MRI,Philips EPIQ Elite,55188
+P0647,20250408,165751,68,61.0,Male,Netherlands,none,Ultrasound,GE Optima CT660,22952
+P0648,20250218,174231,67,76.0,Male,China,none,PET,Philips EPIQ Elite,60910
+P0649,20250811,153609,55,78.4,Female,Poland,Penicillin,Ultrasound,Canon Aquilion ONE,20103
+P0650,20251010,120244,76,45.8,Female,United Kingdom,none,Ultrasound,Canon Vantage Galan 3T,81864
+P0651,20240911,105325,49,110.0,Female,Portugal,none,CT,Canon Vantage Galan 3T,74640
+P0652,20250422,130907,54,75.7,Female,Netherlands,none,CT,Canon Aquilion ONE,93867
+P0653,20240107,190808,58,72.3,Male,Italy,none,CT,Philips Ingenia 3.0T,56706
+P0654,20241117,173500,62,84.4,Male,Greece,none,SPECT,Philips Ingenia 3.0T,64875
+P0655,20230703,091952,71,75.2,Male,Ireland,none,MRI,Siemens Magnetom Aera,95002
+P0656,20250201,181431,47,68.2,Male,Netherlands,none,X-ray,Philips EPIQ Elite,42090
+P0657,20250309,164209,34,74.6,Female,India,none,CT,Siemens Magnetom Aera,59385
+P0658,20250819,124554,70,63.1,Female,Italy,none,PET,Canon Aquilion ONE,93230
+P0659,20231004,134624,72,90.2,Female,Portugal,none,SPECT,Siemens Magnetom Aera,81002
+P0660,20250515,071810,46,71.9,Male,Greece,none,CT,GE Signa HDXt,19429
+P0661,20230105,075000,57,68.3,Female,Germany,none,SPECT,Siemens Magnetom Skyra,30954
+P0662,20230120,124355,52,76.1,Female,Portugal,Penicillin,MRI,Siemens Somatom Definition AS,17087
+P0663,20230711,130016,59,109.0,Female,France,none,PET,Philips Ingenia 3.0T,52408
+P0664,20230604,124518,56,73.4,Female,Ireland,none,MRI,GE Discovery MI,42900
+P0665,20251017,110038,56,74.9,Female,Portugal,Penicillin,CT,Philips EPIQ Elite,45287
+P0666,20240415,191703,69,81.9,Male,Sweden,none,Ultrasound,Philips iCT 256,65209
+P0667,20250810,092452,67,88.7,Female,Portugal,none,Ultrasound,GE Optima CT660,69160
+P0668,20231001,172256,48,109.5,Male,Sweden,Penicillin,SPECT,Philips Ingenia 3.0T,81309
+P0669,20231210,200934,76,60.9,Male,Brazil,none,MRI,Canon Vantage Galan 3T,12935
+P0670,20230809,141031,72,76.0,Male,Germany,none,SPECT,Philips EPIQ Elite,65728
+P0671,20230916,162023,64,84.7,Male,Poland,Penicillin,CT,Philips EPIQ Elite,65013
+P0672,20240519,153124,62,49.9,Male,Netherlands,Penicillin,MRI,Siemens Magnetom Skyra,42212
+P0673,20240321,143700,79,68.3,Female,Sweden,none,Ultrasound,Philips EPIQ Elite,12326
+P0674,20240803,182753,63,105.5,Female,Portugal,none,X-ray,Philips iCT 256,59672
+P0675,20231205,113523,65,84.7,Male,Sweden,none,X-ray,Siemens Magnetom Aera,97049
+P0676,20230224,113457,54,95.2,Female,Netherlands,none,SPECT,GE Signa HDXt,34245
+P0677,20251212,171818,55,64.0,Male,Italy,none,CT,Canon Aquilion ONE,56299
+P0678,20230209,122748,53,90.2,Male,Italy,none,PET,Siemens Magnetom Aera,12187
+P0679,20251027,174223,57,46.2,Male,Ireland,Penicillin,Ultrasound,Canon Vantage Galan 3T,38492
+P0680,20250819,181939,55,82.6,Female,United Kingdom,none,SPECT,Siemens Somatom Definition AS,93748
+P0681,20240724,114446,60,115.6,Male,Poland,none,X-ray,Siemens Somatom Definition AS,51925
+P0682,20241231,204430,45,108.8,Female,Ireland,none,PET,Canon Aquilion ONE,46654
+P0683,20251127,195325,57,78.4,Female,China,none,SPECT,Siemens Somatom Definition AS,23652
+P0684,20230701,103257,72,83.4,Male,Spain,none,MRI,Siemens Somatom Definition AS,70438
+P0685,20240627,192520,52,121.1,Female,Netherlands,none,SPECT,GE Discovery MI,94919
+P0686,20241009,081347,63,118.5,Unknown,Sweden,none,CT,Philips Ingenia 3.0T,87405
+P0687,20230218,085436,53,50.5,Male,United Kingdom,none,SPECT,GE Optima CT660,41514
+P0688,20251026,142534,73,71.0,Male,Japan,Penicillin,X-ray,Philips EPIQ Elite,63295
+P0689,20230302,181552,68,73.9,Female,United Kingdom,none,Ultrasound,Siemens Magnetom Skyra,15043
+P0690,20250309,121014,63,93.6,Male,Sweden,none,X-ray,Canon Aquilion ONE,13573
+P0691,20230201,151734,55,54.8,Female,Germany,none,SPECT,Philips iCT 256,84044
+P0692,20230709,171604,57,84.1,Male,Germany,Penicillin,X-ray,Canon Aquilion ONE,17696
+P0693,20250304,132857,48,78.2,Female,Portugal,none,PET,Philips iCT 256,95012
+P0694,20221224,160145,59,82.5,Male,Spain,none,Ultrasound,Canon Vantage Galan 3T,87904
+P0695,20250103,075900,48,73.1,Male,India,none,CT,GE Optima CT660,67861
+P0696,20230131,200220,43,102.2,Male,Italy,Penicillin,PET,GE Signa HDXt,52516
+P0697,20250420,143311,62,54.3,Unknown,Poland,none,PET,GE Discovery MI,48268
+P0698,20240724,134850,57,103.5,Female,India,none,CT,Siemens Somatom Definition AS,57202
+P0699,20241012,075442,47,77.0,Female,France,none,CT,GE Signa HDXt,72240
+P0700,20250731,121425,55,119.2,Male,Mexico,none,Ultrasound,Siemens Magnetom Skyra,26560
+P0701,20240222,204525,61,77.2,Female,India,none,X-ray,GE Optima CT660,70849
+P0702,20230610,150241,49,76.8,Male,India,none,SPECT,Siemens Somatom Definition AS,41107
+P0703,20230919,172157,43,100.3,Female,France,Penicillin,CT,Philips iCT 256,47297
+P0704,20230701,191214,66,72.5,Female,Netherlands,none,PET,Siemens Somatom Definition AS,34688
+P0705,20250715,171154,73,121.3,Female,Ireland,Penicillin,Ultrasound,Canon Vantage Galan 3T,70397
+P0706,20231126,181705,74,82.6,Male,France,none,SPECT,Siemens Magnetom Skyra,97585
+P0707,20250901,110015,72,84.8,Unknown,Ireland,none,PET,Philips EPIQ Elite,73851
+P0708,20240919,101203,64,82.1,Male,United Kingdom,none,CT,Canon Vantage Galan 3T,32149
+P0709,20230823,121440,54,84.1,Unknown,Germany,none,Ultrasound,GE Optima CT660,94228
+P0710,20251114,111859,71,70.1,Male,Mexico,none,SPECT,GE Signa HDXt,16506
+P0711,20230611,152846,79,86.2,Unknown,Netherlands,Penicillin,X-ray,Siemens Magnetom Aera,65076
+P0712,20240220,193901,69,78.6,Male,Ireland,none,Ultrasound,GE Signa HDXt,13310
+P0713,20250224,112210,80,83.2,Male,Portugal,Penicillin,MRI,Philips EPIQ Elite,38538
+P0714,20230328,115504,53,53.4,Male,United Kingdom,Penicillin,PET,Canon Vantage Galan 3T,44874
+P0715,20250406,100511,50,78.9,Female,Sweden,Penicillin,PET,Siemens Somatom Definition AS,52185
+P0716,20240128,131826,60,62.5,Unknown,Brazil,none,PET,GE Signa HDXt,28375
+P0717,20240825,202342,63,80.6,Unknown,Poland,none,MRI,Siemens Magnetom Aera,44297
+P0718,20240725,082654,55,71.6,Male,Spain,Penicillin,X-ray,Canon Aquilion ONE,19417
+P0719,20250809,092425,65,61.7,Unknown,Greece,Penicillin,SPECT,GE Signa HDXt,81194
+P0720,20231002,140001,66,80.5,Female,Italy,none,Ultrasound,Philips iCT 256,19186
+P0721,20250216,164421,68,72.1,Female,France,Penicillin,CT,Siemens Magnetom Skyra,99603
+P0722,20231210,151901,71,59.9,Female,Sweden,none,SPECT,Siemens Somatom Definition AS,37147
+P0723,20231023,081528,55,69.5,Female,Ireland,none,SPECT,Canon Aquilion ONE,10833
+P0724,20230131,135034,55,80.0,Male,Poland,none,X-ray,Siemens Magnetom Skyra,18990
+P0725,20230414,193841,69,82.8,Male,Poland,none,MRI,Siemens Magnetom Skyra,26447
+P0726,20240223,095650,59,66.8,Female,Netherlands,none,X-ray,Canon Vantage Galan 3T,71073
+P0727,20230311,181528,54,71.3,Female,Spain,none,X-ray,Philips EPIQ Elite,46747
+P0728,20231111,070246,65,83.0,Female,France,none,Ultrasound,Philips EPIQ Elite,13451
+P0729,20250419,185322,61,77.0,Male,Mexico,none,CT,Philips iCT 256,32927
+P0730,20231115,141506,72,62.0,Male,India,none,MRI,GE Optima CT660,30218
+P0731,20230206,101851,54,47.0,Male,Italy,none,SPECT,Siemens Magnetom Aera,18047
+P0732,20241028,140153,45,75.7,Male,France,none,Ultrasound,GE Signa HDXt,10355
+P0733,20240919,153848,50,87.0,Male,Poland,none,PET,GE Signa HDXt,91516
+P0734,20240424,172726,57,75.5,Female,Brazil,none,MRI,Philips EPIQ Elite,89968
+P0735,20240825,093441,57,76.0,Unknown,Germany,none,CT,Siemens Somatom Definition AS,14210
+P0736,20230406,074736,41,71.9,Male,Portugal,Penicillin,Ultrasound,GE Signa HDXt,48636
+P0737,20230112,121835,56,75.1,Male,United Kingdom,none,PET,Philips iCT 256,66100
+P0738,20240605,105241,46,84.1,Unknown,Poland,none,SPECT,Philips iCT 256,52331
+P0739,20240712,183907,56,71.7,Female,Mexico,Penicillin,X-ray,GE Signa HDXt,54471
+P0740,20240714,175409,74,79.9,Male,Japan,none,CT,GE Discovery MI,48008
+P0741,20250312,121421,65,62.4,Male,Greece,none,Ultrasound,Philips iCT 256,34215
+P0742,20241114,171930,67,81.1,Unknown,United Kingdom,none,MRI,Canon Aquilion ONE,15162
+P0743,20231125,180839,46,72.0,Male,Greece,none,Ultrasound,GE Signa HDXt,39989
+P0744,20231109,084343,83,70.9,Female,Ireland,none,CT,Canon Vantage Galan 3T,89919
+P0745,20230424,083210,51,71.8,Unknown,Spain,none,SPECT,GE Signa HDXt,88660
+P0746,20240816,075121,66,67.9,Female,Germany,Penicillin,MRI,GE Signa HDXt,71940
+P0747,20240917,183438,69,70.7,Female,United Kingdom,Penicillin,Ultrasound,Canon Aquilion ONE,33897
+P0748,20250629,181200,72,116.8,Male,France,none,SPECT,GE Signa HDXt,30251
+P0749,20250127,173553,79,91.9,Female,Japan,none,SPECT,GE Optima CT660,26516
+P0750,20250505,161927,61,83.5,Male,Poland,none,MRI,Siemens Magnetom Aera,57077
+P0751,20240515,132225,68,81.9,Male,Spain,none,PET,Siemens Magnetom Skyra,52200
+P0752,20230530,193728,57,90.1,Male,Japan,none,Ultrasound,GE Optima CT660,85572
+P0753,20231030,151959,51,83.5,Female,China,none,CT,GE Signa HDXt,44938
+P0754,20250224,124307,60,107.7,Male,Greece,none,Ultrasound,Siemens Magnetom Aera,58155
+P0755,20241114,192109,70,83.3,Unknown,Ireland,none,MRI,GE Discovery MI,84577
+P0756,20241207,153307,53,82.6,Male,Portugal,Penicillin,X-ray,GE Signa HDXt,66623
+P0757,20231023,113645,53,71.0,Male,Mexico,none,X-ray,Canon Aquilion ONE,57026
+P0758,20250104,123004,71,71.7,Female,Mexico,none,MRI,Philips EPIQ Elite,94540
+P0759,20250927,070805,48,70.3,Male,Italy,Penicillin,Ultrasound,GE Signa HDXt,88004
+P0760,20240324,084825,60,79.7,Male,Spain,Penicillin,SPECT,GE Signa HDXt,79206
+P0761,20250603,124132,80,75.8,Female,Portugal,none,MRI,GE Optima CT660,60166
+P0762,20230615,155954,72,75.8,Male,Greece,Penicillin,PET,Philips Ingenia 3.0T,13642
+P0763,20230508,203841,61,77.1,Male,Germany,none,MRI,GE Optima CT660,43080
+P0764,20241111,202618,63,70.1,Female,Portugal,none,SPECT,Philips EPIQ Elite,27539
+P0765,20250812,180549,70,56.6,Female,Portugal,none,Ultrasound,Siemens Magnetom Skyra,67229
+P0766,20251113,120423,61,62.0,Unknown,Italy,none,PET,Siemens Magnetom Aera,78832
+P0767,20240411,182948,50,117.2,Female,Germany,Penicillin,Ultrasound,Canon Vantage Galan 3T,12327
+P0768,20231208,072545,70,84.9,Male,China,none,SPECT,Philips EPIQ Elite,11280
+P0769,20230820,193907,56,82.6,Male,Mexico,none,SPECT,Philips Ingenia 3.0T,75232
+P0770,20241126,101409,62,110.6,Female,Ireland,Penicillin,SPECT,GE Discovery MI,70484
+P0771,20230309,075726,63,78.9,Male,United Kingdom,none,PET,Canon Aquilion ONE,11959
+P0772,20250801,090302,66,58.3,Male,Netherlands,Penicillin,SPECT,GE Signa HDXt,53655
+P0773,20240521,130842,71,72.0,Female,Spain,none,Ultrasound,Philips Ingenia 3.0T,20587
+P0774,20250412,150157,61,86.3,Female,Poland,none,SPECT,Siemens Magnetom Skyra,77303
+P0775,20230915,113603,56,106.9,Male,United Kingdom,none,Ultrasound,Siemens Somatom Definition AS,18443
+P0776,20231214,123608,66,107.2,Male,Italy,none,SPECT,GE Discovery MI,24786
+P0777,20240726,075624,55,75.9,Female,Portugal,none,MRI,Philips Ingenia 3.0T,11107
+P0778,20251103,133328,63,77.3,Male,Ireland,Penicillin,MRI,Canon Vantage Galan 3T,22416
+P0779,20251213,123532,67,108.7,Female,Spain,none,Ultrasound,Siemens Somatom Definition AS,77445
+P0780,20221217,144555,57,77.0,Female,Ireland,none,X-ray,Siemens Somatom Definition AS,46842
+P0781,20230630,134130,56,80.1,Male,Sweden,none,PET,Canon Aquilion ONE,82660
+P0782,20250704,185852,74,80.2,Male,Greece,Penicillin,MRI,Philips EPIQ Elite,59793
+P0783,20240709,094937,59,75.9,Male,United Kingdom,none,X-ray,GE Discovery MI,50074
+P0784,20240613,174631,69,107.0,Male,United Kingdom,none,X-ray,Siemens Magnetom Skyra,12709
+P0785,20250730,145555,56,117.8,Female,Sweden,none,X-ray,GE Discovery MI,42307
+P0786,20250607,164920,59,96.2,Female,France,none,MRI,GE Signa HDXt,92226
+P0787,20231212,152105,74,83.9,Female,Brazil,none,SPECT,Philips EPIQ Elite,90245
+P0788,20250403,174402,67,84.1,Female,Italy,none,PET,Philips Ingenia 3.0T,99463
+P0789,20241008,133708,56,110.7,Female,India,none,SPECT,Canon Vantage Galan 3T,38566
+P0790,20231207,185112,56,78.1,Unknown,Sweden,none,PET,Canon Vantage Galan 3T,90306
+P0791,20250226,204727,64,75.8,Male,Greece,none,SPECT,Canon Vantage Galan 3T,86705
+P0792,20240921,193514,51,79.8,Male,Japan,none,PET,Siemens Magnetom Aera,59552
+P0793,20230705,122704,85,70.9,Female,Germany,none,PET,Philips Ingenia 3.0T,32933
+P0794,20250307,185544,72,83.3,Female,Mexico,Penicillin,SPECT,Siemens Somatom Definition AS,41022
+P0795,20230723,103406,64,64.4,Male,Sweden,none,PET,Canon Vantage Galan 3T,38736
+P0796,20241117,142016,74,92.9,Female,Ireland,none,SPECT,Siemens Magnetom Skyra,78321
+P0797,20230114,101551,65,103.2,Female,France,none,X-ray,GE Discovery MI,31967
+P0798,20250110,194836,44,94.7,Male,United Kingdom,none,X-ray,Canon Vantage Galan 3T,39016
+P0799,20231028,153716,50,72.2,Male,China,none,PET,Philips EPIQ Elite,27310
+P0800,20250125,142251,72,75.7,Male,Italy,none,CT,Siemens Magnetom Skyra,94777
+P0801,20250405,101430,58,75.7,Female,Netherlands,none,Ultrasound,Siemens Somatom Definition AS,55014
+P0802,20241214,172921,56,70.3,Male,United Kingdom,none,Ultrasound,Canon Aquilion ONE,95275
+P0803,20250109,133349,65,82.9,Male,Spain,none,MRI,Canon Aquilion ONE,27303
+P0804,20240920,130713,76,70.7,Female,France,none,CT,Siemens Magnetom Aera,72863
+P0805,20241218,084503,50,90.9,Female,Spain,none,CT,Canon Aquilion ONE,72397
+P0806,20250627,100320,65,84.8,Female,Italy,none,X-ray,GE Signa HDXt,29638
+P0807,20250620,142749,60,82.3,Male,France,none,PET,Siemens Magnetom Aera,20097
+P0808,20230922,192135,35,87.0,Female,United Kingdom,none,X-ray,Canon Aquilion ONE,81486
+P0809,20240131,093939,67,77.6,Female,India,none,X-ray,GE Discovery MI,35220
+P0810,20250920,072753,53,76.0,Male,Mexico,Penicillin,CT,Philips iCT 256,35327
+P0811,20230117,110333,67,77.5,Female,Greece,none,PET,GE Discovery MI,69906
+P0812,20241024,082037,39,104.5,Female,Portugal,none,PET,Canon Aquilion ONE,48511
+P0813,20250207,144358,80,69.8,Unknown,United Kingdom,none,MRI,Siemens Magnetom Skyra,98969
+P0814,20241126,093446,56,72.7,Male,Germany,none,CT,Siemens Somatom Definition AS,35482
+P0815,20250725,153006,71,76.5,Male,Greece,none,Ultrasound,Siemens Somatom Definition AS,88340
+P0816,20250908,083809,52,80.4,Male,Poland,none,PET,Canon Vantage Galan 3T,42069
+P0817,20231124,081204,57,102.2,Female,Greece,none,PET,Philips EPIQ Elite,93294
+P0818,20240302,182012,50,72.5,Female,Portugal,none,MRI,Philips Ingenia 3.0T,54219
+P0819,20240115,150545,42,67.6,Male,Poland,none,Ultrasound,Canon Vantage Galan 3T,40665
+P0820,20230211,120728,44,110.5,Unknown,Italy,Penicillin,CT,Siemens Somatom Definition AS,98972
+P0821,20240503,194758,69,76.1,Female,Ireland,none,SPECT,GE Optima CT660,89429
+P0822,20230531,101632,49,80.6,Male,Portugal,none,MRI,Philips iCT 256,12230
+P0823,20241103,122742,63,98.1,Female,Italy,none,X-ray,GE Discovery MI,55451
+P0824,20250130,114324,65,84.2,Unknown,Brazil,none,CT,GE Signa HDXt,88199
+P0825,20241220,173413,56,79.3,Male,Poland,none,Ultrasound,Philips iCT 256,21454
+P0826,20240526,075730,60,78.1,Female,Netherlands,none,CT,Philips iCT 256,92513
+P0827,20250426,131858,62,74.5,Male,Netherlands,Penicillin,Ultrasound,Siemens Magnetom Skyra,57155
+P0828,20241023,103720,62,79.0,Unknown,Germany,none,Ultrasound,Canon Vantage Galan 3T,53345
+P0829,20231203,184139,69,78.7,Male,Ireland,none,PET,GE Discovery MI,53737
+P0830,20250106,161457,59,71.6,Unknown,Greece,none,Ultrasound,GE Discovery MI,51769
+P0831,20240618,073943,70,121.7,Unknown,France,none,MRI,Siemens Somatom Definition AS,71872
+P0832,20230227,125723,70,81.4,Female,Poland,none,CT,Siemens Somatom Definition AS,10212
+P0833,20241202,185522,72,77.7,Male,France,none,SPECT,Canon Vantage Galan 3T,83688
+P0834,20240210,204208,68,67.9,Unknown,Spain,none,PET,Canon Aquilion ONE,29380
+P0835,20230610,132804,63,78.9,Female,Poland,none,PET,GE Optima CT660,45801
+P0836,20250412,105314,55,65.1,Female,Portugal,none,MRI,Canon Vantage Galan 3T,19149
+P0837,20250322,123645,63,86.1,Male,Spain,Penicillin,Ultrasound,Canon Aquilion ONE,21333
+P0838,20230331,163221,56,78.1,Female,Spain,none,MRI,Philips EPIQ Elite,63720
+P0839,20240219,180203,54,72.8,Unknown,Greece,none,X-ray,Philips Ingenia 3.0T,52056
+P0840,20250510,124722,59,88.4,Female,Poland,none,Ultrasound,Canon Aquilion ONE,41568
+P0841,20231206,075505,60,81.5,Male,Greece,none,MRI,Siemens Magnetom Aera,64543
+P0842,20240214,194303,35,71.8,Female,Ireland,none,MRI,Siemens Magnetom Skyra,99873
+P0843,20230828,192223,63,71.0,Male,Sweden,none,CT,GE Discovery MI,78859
+P0844,20230718,205236,65,72.6,Male,United Kingdom,none,X-ray,Philips EPIQ Elite,91931
+P0845,20230412,202123,58,99.6,Female,Netherlands,none,Ultrasound,Philips iCT 256,22307
+P0846,20250828,170231,63,102.4,Female,Ireland,none,PET,Canon Aquilion ONE,92073
+P0847,20240102,162555,63,81.5,Male,China,none,Ultrasound,Philips iCT 256,82117
+P0848,20230912,184728,70,84.9,Female,Portugal,none,PET,Philips Ingenia 3.0T,14984
+P0849,20250913,104901,52,70.1,Male,India,none,X-ray,GE Optima CT660,11363
+P0850,20250721,093128,67,74.6,Female,France,Penicillin,X-ray,Philips Ingenia 3.0T,25922
+P0851,20231015,145926,65,118.5,Male,Ireland,none,MRI,GE Signa HDXt,79713
+P0852,20240621,192156,58,105.2,Unknown,Mexico,none,PET,Canon Aquilion ONE,29031
+P0853,20231119,072132,56,75.7,Male,Poland,none,PET,Philips EPIQ Elite,10368
+P0854,20250717,195815,60,73.3,Female,Portugal,none,X-ray,Philips iCT 256,70079
+P0855,20250903,140008,55,74.8,Female,Japan,none,X-ray,Philips iCT 256,61857
+P0856,20230609,171359,76,117.0,Female,Mexico,none,CT,Canon Vantage Galan 3T,28150
+P0857,20240128,070615,59,79.7,Male,Poland,none,X-ray,GE Signa HDXt,60602
+P0858,20230718,133211,71,80.9,Female,United Kingdom,none,X-ray,GE Discovery MI,98221
+P0859,20240915,070228,70,77.6,Male,Mexico,none,Ultrasound,Siemens Magnetom Skyra,17131
+P0860,20250819,084835,61,66.2,Female,Germany,none,X-ray,Canon Aquilion ONE,12417
+P0861,20250914,133845,60,69.3,Male,United Kingdom,none,CT,Canon Vantage Galan 3T,32461
+P0862,20240407,160059,56,72.1,Female,China,none,MRI,Philips EPIQ Elite,54365
+P0863,20230610,071644,52,49.5,Female,Ireland,none,CT,Siemens Magnetom Skyra,87293
+P0864,20240530,140255,59,77.5,Male,France,none,MRI,Siemens Magnetom Aera,10083
+P0865,20250227,181847,62,95.7,Male,Brazil,none,MRI,Canon Aquilion ONE,97504
+P0866,20230702,115423,70,100.3,Female,Mexico,none,Ultrasound,Siemens Magnetom Skyra,56787
+P0867,20241204,191221,56,70.4,Male,Poland,none,MRI,Siemens Magnetom Skyra,84759
+P0868,20250913,131017,65,112.8,Male,China,none,X-ray,Philips EPIQ Elite,40762
+P0869,20241003,095103,74,71.7,Male,Poland,none,Ultrasound,GE Discovery MI,36945
+P0870,20230820,193821,58,81.5,Male,Portugal,none,SPECT,GE Signa HDXt,86842
+P0871,20231127,110800,69,82.8,Female,Sweden,none,Ultrasound,Siemens Magnetom Aera,40985
+P0872,20240126,115129,52,71.8,Male,Portugal,none,X-ray,Philips iCT 256,57050
+P0873,20231027,144723,69,72.9,Female,Italy,Penicillin,Ultrasound,Siemens Somatom Definition AS,63453
+P0874,20240806,160224,59,77.8,Male,Greece,none,Ultrasound,Canon Vantage Galan 3T,68458
+P0875,20241027,134717,50,112.0,Male,Greece,none,CT,GE Signa HDXt,12550
+P0876,20241103,105847,60,109.9,Female,Japan,none,X-ray,Canon Aquilion ONE,69449
+P0877,20251015,173036,51,76.4,Female,Greece,none,CT,GE Discovery MI,57270
+P0878,20240201,111401,45,72.2,Female,France,none,PET,Siemens Magnetom Aera,70192
+P0879,20250125,161733,64,84.9,Male,Spain,none,CT,Philips iCT 256,42241
+P0880,20241025,105346,81,93.7,Female,Italy,none,PET,GE Discovery MI,52997
+P0881,20231123,184433,73,121.9,Male,Greece,none,MRI,GE Signa HDXt,33198
+P0882,20230330,165043,55,87.3,Female,Poland,none,PET,GE Optima CT660,33422
+P0883,20241019,133445,70,68.1,Male,Ireland,none,MRI,Philips Ingenia 3.0T,43804
+P0884,20250914,151158,59,49.5,Female,Germany,none,X-ray,GE Signa HDXt,13045
+P0885,20240823,202848,56,84.1,Unknown,Ireland,Penicillin,Ultrasound,Siemens Magnetom Aera,56717
+P0886,20230627,093732,61,45.5,Female,Netherlands,Penicillin,MRI,Philips EPIQ Elite,59128
+P0887,20250929,125725,55,113.9,Female,Spain,none,PET,GE Signa HDXt,65992
+P0888,20231122,200420,61,115.3,Female,Brazil,none,X-ray,Philips EPIQ Elite,11754
+P0889,20250717,141535,74,75.3,Male,China,none,MRI,Canon Aquilion ONE,89866
+P0890,20240313,080320,36,88.2,Male,China,none,SPECT,Siemens Magnetom Skyra,90504
+P0891,20241105,113538,74,59.4,Unknown,Mexico,none,SPECT,Canon Aquilion ONE,88415
+P0892,20240813,074325,56,97.6,Male,Spain,none,X-ray,Siemens Somatom Definition AS,97380
+P0893,20241117,204041,66,77.2,Female,Germany,none,X-ray,Philips EPIQ Elite,37130
+P0894,20241102,124856,59,106.9,Unknown,China,none,CT,Philips iCT 256,91567
+P0895,20221219,163317,67,108.1,Female,United Kingdom,none,MRI,Canon Aquilion ONE,61093
+P0896,20240820,171819,55,73.5,Male,France,none,PET,Siemens Somatom Definition AS,94532
+P0897,20240616,095304,54,54.4,Male,Germany,none,SPECT,Philips EPIQ Elite,92062
+P0898,20250829,074836,61,84.7,Unknown,Greece,none,SPECT,Canon Aquilion ONE,87458
+P0899,20231028,122544,69,120.1,Male,Poland,none,PET,Siemens Somatom Definition AS,90370
+P0900,20251007,104552,60,84.1,Female,France,none,X-ray,Siemens Magnetom Aera,95781
+P0901,20230116,084454,53,76.0,Male,Spain,none,MRI,Siemens Magnetom Aera,69044
+P0902,20231112,121736,47,75.7,Unknown,Germany,none,SPECT,Siemens Magnetom Aera,96243
+P0903,20250425,075418,50,82.6,Male,Portugal,none,X-ray,GE Optima CT660,48461
+P0904,20250222,171030,74,61.8,Unknown,Sweden,none,X-ray,Philips EPIQ Elite,60446
+P0905,20240903,162806,58,75.8,Female,India,none,SPECT,GE Discovery MI,11555
+P0906,20240424,155915,49,71.7,Female,Ireland,none,CT,Philips Ingenia 3.0T,91701
+P0907,20230208,073143,52,111.8,Female,Italy,none,SPECT,GE Optima CT660,69954
+P0908,20250720,083214,74,97.3,Female,Italy,none,Ultrasound,Canon Aquilion ONE,64057
+P0909,20250816,101153,59,83.3,Male,India,Penicillin,CT,Siemens Magnetom Skyra,69846
+P0910,20250115,094853,59,119.6,Male,Greece,none,SPECT,GE Signa HDXt,58871
+P0911,20240112,110830,60,76.8,Female,Greece,none,PET,GE Discovery MI,56735
+P0912,20230926,161215,59,75.7,Male,Sweden,none,Ultrasound,Philips iCT 256,98396
+P0913,20250308,203646,57,81.9,Female,United Kingdom,Penicillin,CT,GE Optima CT660,91202
+P0914,20240306,184903,67,73.6,Female,Ireland,none,X-ray,GE Optima CT660,55105
+P0915,20240310,144840,57,75.5,Female,Greece,Penicillin,X-ray,Philips iCT 256,59137
+P0916,20231107,171835,51,99.9,Female,Italy,Penicillin,MRI,Siemens Somatom Definition AS,91099
+P0917,20241120,172012,55,73.9,Female,India,none,CT,Siemens Magnetom Aera,85552
+P0918,20230424,200500,41,69.7,Female,Poland,Penicillin,Ultrasound,Siemens Somatom Definition AS,64524
+P0919,20240704,091133,40,73.8,Female,Italy,none,CT,Siemens Magnetom Skyra,52033
+P0920,20250412,140130,59,66.0,Male,Greece,none,MRI,Canon Aquilion ONE,76041
+P0921,20250225,104758,60,65.2,Male,Greece,none,CT,Siemens Magnetom Skyra,85901
+P0922,20240724,133926,46,67.5,Female,Sweden,Penicillin,PET,Siemens Magnetom Aera,47608
+P0923,20250322,115931,66,49.9,Male,China,none,MRI,GE Optima CT660,77028
+P0924,20240410,205021,57,105.4,Female,Germany,none,Ultrasound,Siemens Somatom Definition AS,23791
+P0925,20240409,073817,53,84.3,Female,Germany,none,MRI,Philips iCT 256,19138
+P0926,20240825,133252,51,82.9,Female,Mexico,none,CT,Siemens Magnetom Skyra,56186
+P0927,20230914,074315,56,49.5,Male,Greece,Penicillin,CT,GE Discovery MI,68772
+P0928,20250917,112720,78,79.9,Female,Spain,none,CT,Siemens Magnetom Skyra,63203
+P0929,20250106,105741,56,64.4,Male,Netherlands,none,PET,Siemens Somatom Definition AS,53262
+P0930,20230917,160855,46,119.7,Male,Ireland,Penicillin,SPECT,Siemens Magnetom Aera,88978
+P0931,20250425,124034,63,119.9,Female,Poland,none,Ultrasound,Philips iCT 256,28935
+P0932,20241231,130325,73,75.1,Male,India,none,PET,Canon Aquilion ONE,61979
+P0933,20250819,194817,63,75.4,Male,United Kingdom,none,PET,Canon Aquilion ONE,87171
+P0934,20240408,200441,69,70.1,Female,Germany,none,SPECT,Philips iCT 256,47386
+P0935,20240310,145745,54,84.6,Female,United Kingdom,none,MRI,GE Signa HDXt,93176
+P0936,20250507,181522,63,115.8,Female,Ireland,none,CT,Philips Ingenia 3.0T,87601
+P0937,20241023,085450,61,47.2,Female,Poland,none,CT,Siemens Somatom Definition AS,49812
+P0938,20230426,183504,56,71.8,Female,Poland,none,CT,GE Signa HDXt,90518
+P0939,20231101,133321,47,78.1,Unknown,France,none,MRI,Canon Vantage Galan 3T,37103
+P0940,20250117,071118,53,76.0,Male,Ireland,none,PET,Siemens Magnetom Aera,11000
+P0941,20230821,195423,44,84.9,Female,Brazil,none,MRI,GE Optima CT660,39934
+P0942,20250721,090637,58,87.2,Male,Greece,none,CT,Philips EPIQ Elite,88661
+P0943,20250108,194425,59,83.2,Unknown,Poland,none,CT,Philips iCT 256,68893
+P0944,20250123,185358,51,72.9,Male,Brazil,none,PET,Philips iCT 256,13665
+P0945,20230905,140447,64,78.0,Unknown,France,none,MRI,Siemens Magnetom Aera,14584
+P0946,20251205,080903,55,47.8,Female,Ireland,none,Ultrasound,Siemens Somatom Definition AS,58774
+P0947,20250102,192901,64,77.4,Male,France,none,SPECT,Philips iCT 256,71801
+P0948,20250813,114828,65,79.7,Male,India,none,PET,Canon Vantage Galan 3T,78229
+P0949,20240618,151403,54,107.0,Male,Portugal,none,Ultrasound,Siemens Somatom Definition AS,14212
+P0950,20230912,083630,84,80.2,Male,Sweden,none,CT,GE Optima CT660,94913
+P0951,20241218,132801,62,57.0,Male,Netherlands,none,MRI,Philips iCT 256,26351
+P0952,20230223,091441,53,108.4,Female,Ireland,none,MRI,GE Optima CT660,16428
+P0953,20241102,122446,38,86.5,Male,Italy,none,Ultrasound,Siemens Magnetom Aera,74040
+P0954,20230204,155529,57,81.7,Female,Japan,none,MRI,Siemens Magnetom Skyra,59757
+P0955,20240309,164503,39,94.7,Female,Mexico,none,PET,Philips EPIQ Elite,61203
+P0956,20221221,093421,41,84.0,Female,Ireland,none,X-ray,Philips iCT 256,85473
+P0957,20240313,200303,59,79.9,Female,Sweden,none,MRI,GE Optima CT660,89087
+P0958,20240726,180303,62,110.1,Male,Germany,none,Ultrasound,Canon Aquilion ONE,69309
+P0959,20240803,113143,74,64.9,Female,Ireland,none,SPECT,Philips EPIQ Elite,62042
+P0960,20230503,105002,72,68.2,Male,Italy,none,Ultrasound,Philips Ingenia 3.0T,61513
+P0961,20240116,132002,73,78.7,Female,India,none,CT,Canon Vantage Galan 3T,23525
+P0962,20241027,143142,39,76.2,Female,United Kingdom,none,MRI,Siemens Magnetom Aera,83353
+P0963,20241008,111126,65,58.1,Unknown,Italy,none,Ultrasound,GE Optima CT660,28609
+P0964,20240512,171533,65,72.9,Female,Sweden,none,SPECT,Philips EPIQ Elite,43505
+P0965,20250715,145339,56,106.1,Female,France,none,SPECT,GE Optima CT660,19062
+P0966,20230925,203400,54,95.8,Female,Ireland,none,Ultrasound,Siemens Somatom Definition AS,14369
+P0967,20250804,095123,51,69.1,Female,China,none,CT,Siemens Magnetom Skyra,10554
+P0968,20240803,084523,53,88.8,Female,Greece,Penicillin,X-ray,Siemens Magnetom Aera,83681
+P0969,20250808,204254,39,82.3,Male,Greece,none,CT,Philips EPIQ Elite,66113
+P0970,20240901,162137,68,82.2,Male,Portugal,none,MRI,Canon Aquilion ONE,79829
+P0971,20251027,103137,54,81.0,Female,Poland,none,SPECT,Siemens Magnetom Skyra,84937
+P0972,20240504,152348,69,84.2,Female,Italy,Penicillin,Ultrasound,Siemens Magnetom Skyra,26697
+P0973,20250425,134229,64,78.1,Male,Spain,none,PET,Siemens Magnetom Skyra,53944
+P0974,20230213,165716,40,72.5,Male,Greece,none,SPECT,Philips Ingenia 3.0T,80224
+P0975,20251024,185758,62,98.1,Unknown,Ireland,none,CT,Canon Vantage Galan 3T,45417
+P0976,20241126,134247,49,120.6,Male,Ireland,none,MRI,Siemens Somatom Definition AS,61826
+P0977,20240930,120129,71,101.6,Female,France,none,PET,GE Optima CT660,62447
+P0978,20231025,081141,60,61.8,Male,Italy,none,X-ray,Siemens Magnetom Aera,48161
+P0979,20230214,085812,72,54.3,Male,Germany,none,Ultrasound,GE Signa HDXt,63030
+P0980,20231127,154531,51,72.4,Unknown,France,none,MRI,Canon Aquilion ONE,67759
+P0981,20250525,154743,50,96.4,Unknown,Italy,Penicillin,SPECT,Philips Ingenia 3.0T,60718
+P0982,20230330,134358,61,80.7,Male,Sweden,Penicillin,CT,Philips iCT 256,59818
+P0983,20241117,070115,55,58.4,Female,Sweden,none,PET,Siemens Magnetom Aera,17777
+P0984,20251111,164820,52,58.4,Male,China,none,CT,GE Discovery MI,25885
+P0985,20221219,173206,59,73.7,Female,Greece,none,Ultrasound,Siemens Magnetom Aera,53116
+P0986,20240513,092426,75,80.5,Female,Netherlands,none,CT,GE Signa HDXt,35086
+P0987,20230517,103544,56,77.5,Female,Ireland,none,PET,GE Signa HDXt,91369
+P0988,20241007,073331,39,118.5,Male,France,none,MRI,GE Optima CT660,11718
+P0989,20230420,205514,60,75.8,Female,Netherlands,Penicillin,PET,GE Optima CT660,75743
+P0990,20251205,083546,73,82.3,Female,Ireland,none,SPECT,Canon Aquilion ONE,17420
+P0991,20250912,185128,61,84.3,Female,Japan,none,CT,Siemens Magnetom Skyra,18461
+P0992,20251207,111347,53,56.3,Female,Poland,none,PET,GE Signa HDXt,11842
+P0993,20240713,143902,54,48.7,Female,China,none,PET,Canon Vantage Galan 3T,49385
+P0994,20250309,194537,50,73.9,Unknown,Mexico,none,Ultrasound,Canon Aquilion ONE,85901
+P0995,20230209,113549,44,52.3,Male,Sweden,none,MRI,Siemens Magnetom Skyra,16966
+P0996,20251103,175921,60,77.6,Unknown,Spain,Penicillin,SPECT,Siemens Magnetom Skyra,92568
+P0997,20250506,122035,63,77.5,Female,Japan,none,SPECT,Siemens Somatom Definition AS,38198
+P0998,20230208,171138,54,78.0,Male,Mexico,none,MRI,Siemens Magnetom Aera,30800
+P0999,20251029,175421,67,82.8,Male,United Kingdom,Penicillin,PET,Canon Vantage Galan 3T,38779
+P1000,20231026,193859,59,84.5,Female,Greece,none,SPECT,Philips iCT 256,38832

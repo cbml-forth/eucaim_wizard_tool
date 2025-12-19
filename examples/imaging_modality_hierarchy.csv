@@ -1,0 +1,6 @@
+CT,X-ray_Based,ALL_MODALITIES
+MRI,Other_Advanced_Imaging,ALL_MODALITIES
+X-ray,X-ray_Based,ALL_MODALITIES
+Ultrasound,Other_Advanced_Imaging,ALL_MODALITIES
+PET,Nuclear_Medicine,ALL_MODALITIES
+SPECT,Nuclear_Medicine,ALL_MODALITIES
